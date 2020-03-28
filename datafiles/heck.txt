@@ -1,0 +1,1 @@
+{ "Headline": "heck", "Subtitle": "lwhepoiqhpasd", "Popularity Boost": "4", "Morale Value": "2", "Economic Weight": "0" }

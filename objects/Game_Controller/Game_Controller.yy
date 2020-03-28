@@ -1,0 +1,141 @@
+{
+    "id": "ac6ed5a7-4da6-45c7-ac3b-f76be53d2b35",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "Game_Controller",
+    "eventList": [
+        {
+            "id": "a0ec8393-28bc-4f4f-97e1-d4b34c5439b0",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 10,
+            "eventtype": 7,
+            "m_owner": "ac6ed5a7-4da6-45c7-ac3b-f76be53d2b35"
+        },
+        {
+            "id": "80715cf9-849b-477c-b8e3-f5a38785f992",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "ac6ed5a7-4da6-45c7-ac3b-f76be53d2b35"
+        },
+        {
+            "id": "4a51597f-0ced-4d47-b087-9bfbe7383e57",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 7,
+            "m_owner": "ac6ed5a7-4da6-45c7-ac3b-f76be53d2b35"
+        },
+        {
+            "id": "806064c1-d275-4a6a-9e1a-25bd1b52ae72",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 5,
+            "eventtype": 7,
+            "m_owner": "ac6ed5a7-4da6-45c7-ac3b-f76be53d2b35"
+        },
+        {
+            "id": "13f4c93e-7f32-4656-9cf9-e00b5f663885",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 64,
+            "eventtype": 8,
+            "m_owner": "ac6ed5a7-4da6-45c7-ac3b-f76be53d2b35"
+        },
+        {
+            "id": "b486a85d-2d57-4467-959a-e90697461dc4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "ac6ed5a7-4da6-45c7-ac3b-f76be53d2b35"
+        },
+        {
+            "id": "55145f69-afb8-44a5-93a4-8b9291edb7aa",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 2,
+            "m_owner": "ac6ed5a7-4da6-45c7-ac3b-f76be53d2b35"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": true,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "5469bff3-dfe8-4609-a788-dc93b33b0a3d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "publish_count",
+            "varType": 1
+        },
+        {
+            "id": "5d67a0d0-c849-4bf6-97fe-e341dcc34278",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "rejection_count",
+            "varType": 1
+        },
+        {
+            "id": "8160d806-ae53-4d29-aef2-1e68f567224a",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1",
+            "varName": "day_count",
+            "varType": 1
+        }
+    ],
+    "solid": false,
+    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "visible": true
+}
