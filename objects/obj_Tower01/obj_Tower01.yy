@@ -100,12 +100,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "spr_tower03",
+            "value": "spr_tower01",
             "varName": "tower_sprite",
             "varType": 5
         }
     ],
     "solid": false,
-    "spriteId": "4fcca6ac-7aab-480f-bf4e-d200529b9543",
+    "spriteId": "17bd2158-6bd0-413d-9d4d-f6cebe1f2e9c",
     "visible": true
 }

@@ -1,38 +1,48 @@
 {
-    "id": "64481202-6fb1-44a9-81b1-19eecbab4340",
+    "id": "8d9bc904-65ab-4156-9a17-1eb60dc37aae",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_Tower01_C",
+    "name": "obj_Tower02",
     "eventList": [
         {
-            "id": "d51159b7-aea2-4836-b5f9-99e787927fb2",
+            "id": "38d1a830-fdfc-4e5d-ab29-4a6cc160770f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "64481202-6fb1-44a9-81b1-19eecbab4340"
+            "m_owner": "8d9bc904-65ab-4156-9a17-1eb60dc37aae"
         },
         {
-            "id": "187cddde-a6ba-401f-b697-051e554f1342",
+            "id": "b2de5896-915d-46ce-a277-a3f655b4ff43",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "64481202-6fb1-44a9-81b1-19eecbab4340"
+            "m_owner": "8d9bc904-65ab-4156-9a17-1eb60dc37aae"
         },
         {
-            "id": "81681501-dac0-4b62-899d-2ba5c4b0abaf",
+            "id": "35478ef8-664e-4581-8d53-d42782c4d586",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
-            "eventtype": 6,
-            "m_owner": "64481202-6fb1-44a9-81b1-19eecbab4340"
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "8d9bc904-65ab-4156-9a17-1eb60dc37aae"
+        },
+        {
+            "id": "738f4892-fa07-41e6-a3e3-81410cbb54f1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 3,
+            "m_owner": "8d9bc904-65ab-4156-9a17-1eb60dc37aae"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,7 +63,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "50022005-d009-4600-99b6-ff20e58c6317",
+            "id": "e0a38294-6278-4498-9106-0b9d8adb457e",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -62,26 +72,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "50",
-            "varName": "cost",
-            "varType": 0
-        },
-        {
-            "id": "96140e5d-e54f-4270-8353-d5758a43e563",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "100",
+            "value": "10",
             "varName": "range",
             "varType": 0
         },
         {
-            "id": "7e8277c4-dc26-4291-8491-57a694954a98",
+            "id": "b97e0519-36b2-4f33-968f-7567879e22f9",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -90,12 +86,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "3",
+            "value": "10",
             "varName": "bullets_per_second",
             "varType": 0
         },
         {
-            "id": "acc45aea-ecec-4af2-be76-b42335d7295f",
+            "id": "ac67cc79-ad0b-4f20-bf89-27eba9a56d67",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -104,12 +100,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "spr_tower01",
+            "value": "spr_tower02",
             "varName": "tower_sprite",
             "varType": 5
         }
     ],
     "solid": false,
-    "spriteId": "17bd2158-6bd0-413d-9d4d-f6cebe1f2e9c",
+    "spriteId": "5e5193d1-2507-440b-b1c7-f731fa4b13d9",
     "visible": true
 }
