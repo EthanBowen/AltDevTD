@@ -1,0 +1,111 @@
+{
+    "id": "71710de4-9bec-4420-af4f-5f43913f9135",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "obj_Tower01",
+    "eventList": [
+        {
+            "id": "6c23993d-d2cb-47a0-8e1d-8ec51440300e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "71710de4-9bec-4420-af4f-5f43913f9135"
+        },
+        {
+            "id": "0bf0635b-ce95-4cdc-b330-d27e894dfb3b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "71710de4-9bec-4420-af4f-5f43913f9135"
+        },
+        {
+            "id": "dad3f20a-d852-4cc0-9392-1503fe6c4cce",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "71710de4-9bec-4420-af4f-5f43913f9135"
+        },
+        {
+            "id": "25e2b3fa-0609-4443-9c7d-8c3080119a0a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 3,
+            "m_owner": "71710de4-9bec-4420-af4f-5f43913f9135"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "6083d163-5892-4295-b505-6026c5d0b139",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "10",
+            "varName": "range",
+            "varType": 0
+        },
+        {
+            "id": "3314061b-500d-4cb0-bce1-24da9874429d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "10",
+            "varName": "bullets_per_second",
+            "varType": 0
+        },
+        {
+            "id": "8a7a4c7f-7f03-4e0a-9198-3f3932fc059f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "spr_tower03",
+            "varName": "tower_sprite",
+            "varType": 5
+        }
+    ],
+    "solid": false,
+    "spriteId": "4fcca6ac-7aab-480f-bf4e-d200529b9543",
+    "visible": true
+}
