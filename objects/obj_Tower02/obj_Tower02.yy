@@ -4,50 +4,11 @@
     "mvc": "1.0",
     "name": "obj_Tower02",
     "eventList": [
-        {
-            "id": "38d1a830-fdfc-4e5d-ab29-4a6cc160770f",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "8d9bc904-65ab-4156-9a17-1eb60dc37aae"
-        },
-        {
-            "id": "b2de5896-915d-46ce-a277-a3f655b4ff43",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "8d9bc904-65ab-4156-9a17-1eb60dc37aae"
-        },
-        {
-            "id": "35478ef8-664e-4581-8d53-d42782c4d586",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 2,
-            "m_owner": "8d9bc904-65ab-4156-9a17-1eb60dc37aae"
-        },
-        {
-            "id": "738f4892-fa07-41e6-a3e3-81410cbb54f1",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 1,
-            "eventtype": 3,
-            "m_owner": "8d9bc904-65ab-4156-9a17-1eb60dc37aae"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "c14a00d0-0ec5-44c5-b08e-67290f74a45b",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -72,7 +33,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "10",
+            "value": "50",
             "varName": "range",
             "varType": 0
         },
@@ -86,23 +47,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "10",
+            "value": "6",
             "varName": "bullets_per_second",
             "varType": 0
-        },
-        {
-            "id": "ac67cc79-ad0b-4f20-bf89-27eba9a56d67",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "spr_tower02",
-            "varName": "tower_sprite",
-            "varType": 5
         }
     ],
     "solid": false,

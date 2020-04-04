@@ -5,16 +5,6 @@
     "name": "obj_Tower02_D",
     "eventList": [
         {
-            "id": "f373f8cf-e254-48c0-a151-a3c8a9f6168e",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "b9831a38-3ddf-4e2a-8454-5e259a6eb054"
-        },
-        {
             "id": "e509f6ba-f97b-4578-85e1-d1258bb8ab2a",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -27,7 +17,7 @@
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "fcf6d852-3a17-4e36-a171-ce350c3b84e3",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

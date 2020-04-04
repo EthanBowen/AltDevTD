@@ -1,3 +1,4 @@
 /// @description Sets up costs for the tower.
 
-sprite_index = tower_sprite;
+cost = 75;
+event_inherited();

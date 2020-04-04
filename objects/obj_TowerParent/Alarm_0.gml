@@ -1,4 +1,4 @@
-/// @description 
+/// @description Shooting logic
 
 if (instance_exists(objectToShoot)) {
 	var bullet = instance_create_depth(x, y, -9, obj_bullet);

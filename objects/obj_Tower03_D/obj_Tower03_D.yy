@@ -5,16 +5,6 @@
     "name": "obj_Tower03_D",
     "eventList": [
         {
-            "id": "0527022a-02d3-414e-9cbb-5c87c37c005e",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "577bca54-a741-4953-a7b5-842046c17c13"
-        },
-        {
             "id": "d7bc8b09-b460-49f0-b7c2-cbf7a5260f3c",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -27,7 +17,7 @@
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "fcf6d852-3a17-4e36-a171-ce350c3b84e3",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -42,48 +32,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
-        {
-            "id": "a204496a-08b9-4607-a5b2-5a010ea2e2cf",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "10",
-            "varName": "range",
-            "varType": 0
-        },
-        {
-            "id": "652c4a5e-94e3-4a79-9ac6-cf2331407e0d",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "10",
-            "varName": "bullets_per_second",
-            "varType": 0
-        },
-        {
-            "id": "c02a751c-70bb-4961-b848-d759ced7dd9e",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "spr_tower03",
-            "varName": "tower_sprite",
-            "varType": 5
-        }
+        
     ],
     "solid": false,
     "spriteId": "4fcca6ac-7aab-480f-bf4e-d200529b9543",

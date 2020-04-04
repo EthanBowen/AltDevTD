@@ -1,9 +1,5 @@
-/// @description Purchase Tower Logic
+/// @description Determines the tower to place
+toPlace = obj_Tower03_D;
+// Inherit the parent event
+event_inherited();
 
-if (global.coins >= cost) {
-	var tower = instance_create_depth(mouse_x, mouse_y, -9, obj_Tower03_D);
-	tower.range = range;
-	tower.bullets_per_second = bullets_per_second;
-	tower.tower_sprite = tower_sprite;
-	global.coins -= cost;
-}
