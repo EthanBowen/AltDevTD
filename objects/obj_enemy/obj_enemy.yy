@@ -61,7 +61,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "b124126a-8cef-440a-a17e-723f6fde9914",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "distance",
+            "varType": 1
+        }
+    ],
     "solid": false,
     "spriteId": "0be0e9dc-c5ae-4383-8c13-e864f81cc0de",
     "visible": true
