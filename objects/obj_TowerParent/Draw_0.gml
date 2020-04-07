@@ -1,7 +1,7 @@
 /// @description Drawing and Detection logic
 draw_self();
 
-if (mouseOver(x, y, sprite_width, sprite_height)) {
+if (selected || mouseOver(x, y, sprite_width, sprite_height)) {
 	draw_circle(x, y, range, true);
 }
 
@@ -16,7 +16,7 @@ if (en != noone) {
 	}
 		
 	objectToShoot = en;
-	if (mouseOver(x, y, sprite_width, sprite_height)) {
+	if (selected || mouseOver(x, y, sprite_width, sprite_height)) {
 		draw_line(x, y, en.x, en.y);
 	}
 }
