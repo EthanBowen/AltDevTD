@@ -2,15 +2,15 @@
 
 if (instance_number(obj_enemy) <= 0) {
 	// Reset wave
-	spawn_count = 0;
+	spawn_count = 1;
 	// Set number of spawns
 	spawn_amount++;
 	
 	global.level++;
 	// Increases enemy HP
-	global.hp += 10;
+	//global.hp += 10;
 	// Speeds up enemy speed
-	global.spd += 0.1;
+	//global.spd += 0.1;
 	// Speeds up spawns.
 	spawn_rate -= 2.5;
 	if (spawn_rate <= 0)

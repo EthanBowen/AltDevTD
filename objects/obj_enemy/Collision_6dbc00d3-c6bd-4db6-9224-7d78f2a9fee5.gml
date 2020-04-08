@@ -2,6 +2,6 @@
 
 // Change later to handle different bullet strengths?
 // TODO?: Change to with(other) { thisHP -= damage }
-hp -= 20;
+hp -= 1;
 
 with(other) instance_destroy();
