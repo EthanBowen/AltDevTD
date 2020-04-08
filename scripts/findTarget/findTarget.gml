@@ -15,12 +15,12 @@ for (i = 0; i < instance_number(obj_enemy); i += 1)
    {
 	   if (point_distance(xx,yy,en.x,en.y) <= range + (en.size / 2)) 
 	   {
-			if(en.distance > furthest)
+			if(en.path_position > furthest)
 			{
 				if(spotCamo || !en.camo)
 				{
 					newTarget = en;
-					furthest = en.distance; 
+					furthest = en.path_position; 
 				}
 			}
 	   }
