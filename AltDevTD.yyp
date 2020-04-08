@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "239152ab-c8d4-4c0b-8867-3bd11184ca19",
+            "Value": {
+                "id": "5bfbb583-e5a7-4ced-acbc-f73cd86125e5",
+                "resourcePath": "paths\\pth__ethans_map\\pth__ethans_map.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "276ee657-4ef6-4629-9aee-194b9e59213c",
             "Value": {
                 "id": "f6aab8f7-963d-47f6-82e0-fb1a077f8d6a",
@@ -215,6 +223,14 @@
             }
         },
         {
+            "Key": "4ca468d9-93d0-4c26-8f64-867dbe628fec",
+            "Value": {
+                "id": "354f913b-d21f-470f-b4bc-9eba158d1866",
+                "resourcePath": "sprites\\spr_base\\spr_base.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4d116c76-f25f-4ce3-b311-8418b787db98",
             "Value": {
                 "id": "fe420b9c-3d80-48f4-958d-274aa2a0e1c7",
@@ -227,6 +243,14 @@
             "Value": {
                 "id": "b4d4c378-c34f-405d-a336-e30827a62559",
                 "resourcePath": "sprites\\spr_tower03\\spr_tower03.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5087b445-156d-4c0a-a48a-1ae1078504ab",
+            "Value": {
+                "id": "5d45be78-8270-47fc-af01-58afd078d2d0",
+                "resourcePath": "sprites\\spr_ethans_map\\spr_ethans_map.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -428,6 +452,14 @@
                 "id": "160647ea-18a2-44c6-a85a-aee0b4f79182",
                 "resourcePath": "rooms\\rm_test_map\\rm_test_map.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "782424ad-9159-4d94-b9a0-ad701eb831ab",
+            "Value": {
+                "id": "de8a9a5d-ecf9-4306-9141-f30cfe131525",
+                "resourcePath": "views\\782424ad-9159-4d94-b9a0-ad701eb831ab.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -764,6 +796,14 @@
                 "id": "f5fec70d-4bd6-4f99-ab87-d0a24f8f0889",
                 "resourcePath": "views\\ecfb39f6-a4ee-4189-af05-6c658ae6f66a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ed61e684-29dc-4d6d-a21c-2e287135a997",
+            "Value": {
+                "id": "68b88e8c-9b79-49ca-9164-2c88470bb4ce",
+                "resourcePath": "objects\\obj_ethans_map_select\\obj_ethans_map_select.yy",
+                "resourceType": "GMObject"
             }
         },
         {

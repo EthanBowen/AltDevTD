@@ -1,3 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-room_goto(rm_test_map);
+global.selected_path = pth__ethans_map;
+
+room_goto(rm_ethans_map);
