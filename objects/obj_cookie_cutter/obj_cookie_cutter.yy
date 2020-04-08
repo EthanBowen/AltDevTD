@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "obj_cookie_cutter",
     "eventList": [
-        {
-            "id": "0607682e-1408-4a1f-a242-81b458171493",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "857c8607-d5e1-4f25-9097-5b5bc3b6edf2"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "4ca468d9-93d0-4c26-8f64-867dbe628fec",
+    "spriteId": "5e487552-427b-4b4e-8376-bb903a473077",
     "visible": true
 }

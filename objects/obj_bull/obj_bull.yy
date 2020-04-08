@@ -1,28 +1,36 @@
 {
-    "id": "1fa2f1d3-5a63-4358-920e-20b6eafa0d96",
+    "id": "ebe4d708-4d5d-43ef-8d1a-a9dfa118450a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_cat",
+    "name": "obj_bull",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
         {
-            "id": "b93f24d8-f171-46b8-ab0d-41eb8d70022d",
+            "id": "252b1c47-3a4a-42d6-8944-882fe22867a8",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",
             "propertyId": "c7eaeb90-4ee5-4e58-addd-598597c7fc4e",
-            "value": "10"
+            "value": "40"
         },
         {
-            "id": "16d6ff1b-e112-4004-ac62-398da14710e9",
+            "id": "c1d9cac5-9473-4f89-8812-1fc4c28e41c4",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",
             "propertyId": "88f0c2dc-3cda-421f-8b28-7746c2c9c47f",
             "value": "1.5"
+        },
+        {
+            "id": "16eaf8aa-1c96-420e-8ce1-724cb0e9dc69",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",
+            "propertyId": "e1dcc268-3bee-48ad-8e5b-dd1609ef85a5",
+            "value": "True"
         }
     ],
     "parentObjectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",
@@ -41,6 +49,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "3f4f9c6f-ec01-45a3-b5d7-d1dd25ff158b",
+    "spriteId": "6b434322-5972-4b6c-926d-869188102405",
     "visible": true
 }

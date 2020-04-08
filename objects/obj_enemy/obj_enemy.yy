@@ -72,7 +72,62 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
-        
+        {
+            "id": "c7eaeb90-4ee5-4e58-addd-598597c7fc4e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "5",
+            "varName": "hp",
+            "varType": 1
+        },
+        {
+            "id": "88f0c2dc-3cda-421f-8b28-7746c2c9c47f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1",
+            "varName": "spd",
+            "varType": 0
+        },
+        {
+            "id": "c9cee907-256c-4751-92fa-e661b6e6f829",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "100",
+            "varName": "size",
+            "varType": 1
+        },
+        {
+            "id": "e1dcc268-3bee-48ad-8e5b-dd1609ef85a5",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "camo",
+            "varType": 3
+        }
     ],
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",

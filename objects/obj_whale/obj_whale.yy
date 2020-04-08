@@ -1,28 +1,20 @@
 {
-    "id": "1fa2f1d3-5a63-4358-920e-20b6eafa0d96",
+    "id": "72e610cb-3261-47ba-bfa2-724d37563519",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_cat",
+    "name": "obj_whale",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
         {
-            "id": "b93f24d8-f171-46b8-ab0d-41eb8d70022d",
+            "id": "bb0f13c2-5364-418d-977f-0db92a2398e3",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",
             "propertyId": "c7eaeb90-4ee5-4e58-addd-598597c7fc4e",
-            "value": "10"
-        },
-        {
-            "id": "16d6ff1b-e112-4004-ac62-398da14710e9",
-            "modelName": "GMOverriddenProperty",
-            "mvc": "1.0",
-            "objectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",
-            "propertyId": "88f0c2dc-3cda-421f-8b28-7746c2c9c47f",
-            "value": "1.5"
+            "value": "100"
         }
     ],
     "parentObjectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",
@@ -41,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "3f4f9c6f-ec01-45a3-b5d7-d1dd25ff158b",
+    "spriteId": "e9753b1f-470b-4499-8f5c-ca6af61cf333",
     "visible": true
 }
