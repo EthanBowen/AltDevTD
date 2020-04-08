@@ -2,7 +2,7 @@
     "id": "5e487552-427b-4b4e-8376-bb903a473077",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_base",
+    "name": "spr_cookie_cutter",
     "For3D": false,
     "HTile": false,
     "VTile": false,

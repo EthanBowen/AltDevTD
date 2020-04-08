@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "1acf05c7-43c1-4801-8c82-0a4d248702c6",
+            "Value": {
+                "id": "cffdd5f2-a3ff-4c5d-a4b9-89fefb13766c",
+                "resourcePath": "views\\1acf05c7-43c1-4801-8c82-0a4d248702c6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "1fa2f1d3-5a63-4358-920e-20b6eafa0d96",
             "Value": {
                 "id": "7789b151-6ad5-4603-b5ac-cdb1b62e9800",
@@ -314,7 +322,7 @@
             "Key": "5e487552-427b-4b4e-8376-bb903a473077",
             "Value": {
                 "id": "29e7fdc3-3d41-4beb-9b37-259ca3b849f7",
-                "resourcePath": "sprites\\spr_base\\spr_base.yy",
+                "resourcePath": "sprites\\spr_cookie_cutter\\spr_cookie_cutter.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -503,6 +511,14 @@
             }
         },
         {
+            "Key": "74a0803a-fdeb-4f7a-aba6-4bb9a8928670",
+            "Value": {
+                "id": "4ebea08b-15c4-4029-b9da-94d2caada56d",
+                "resourcePath": "objects\\obj_pebble\\obj_pebble.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "782424ad-9159-4d94-b9a0-ad701eb831ab",
             "Value": {
                 "id": "de8a9a5d-ecf9-4306-9141-f30cfe131525",
@@ -540,6 +556,14 @@
                 "id": "c1449eed-ec85-41d6-97f7-9966885d5981",
                 "resourcePath": "rooms\\rm_map_select\\rm_map_select.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "7f72fc2c-5e5a-402d-a839-18eb96102af4",
+            "Value": {
+                "id": "9360bc9c-e408-48e8-aef6-643b6a5da6fe",
+                "resourcePath": "objects\\obj_turritella\\obj_turritella.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -860,6 +884,14 @@
                 "id": "631ee885-65be-4b7a-97c6-beaeca5924ab",
                 "resourcePath": "views\\eab7687c-0039-43a3-97ff-69a91053c33a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ebabfb07-9aef-4fc8-8f4b-2c1da623ae0e",
+            "Value": {
+                "id": "b8ffe2ea-4185-4af3-ae01-4ddc33aab4dc",
+                "resourcePath": "sprites\\spr_turritella\\spr_turritella.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

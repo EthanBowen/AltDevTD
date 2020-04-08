@@ -2,6 +2,13 @@
 
 // Change later to handle different bullet strengths?
 // TODO?: Change to with(other) { thisHP -= damage }
-hp -= 1;
+hp -= other.damage;
 
-with(other) instance_destroy();
+with(other) 
+{
+	penetration -= 1;
+	if(penetration <= 0)
+	{
+		instance_destroy();
+	}
+}

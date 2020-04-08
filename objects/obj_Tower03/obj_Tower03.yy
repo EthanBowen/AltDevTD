@@ -4,19 +4,19 @@
     "mvc": "1.0",
     "name": "obj_Tower03",
     "eventList": [
-        {
-            "id": "11d2740d-a7e1-4f62-864d-195d2370692b",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "6f3b7425-2f06-4933-9e66-ae0d26197be7"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": null,
+    "overriddenProperties": [
+        {
+            "id": "a2d35b51-9076-4ac3-8948-97fcf686e3f4",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "c14a00d0-0ec5-44c5-b08e-67290f74a45b",
+            "propertyId": "eecffe63-3784-41b7-9959-29c68b11757c",
+            "value": "True"
+        }
+    ],
     "parentObjectId": "c14a00d0-0ec5-44c5-b08e-67290f74a45b",
     "persistent": false,
     "physicsAngularDamping": 0.1,
