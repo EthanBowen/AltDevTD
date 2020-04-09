@@ -75,6 +75,20 @@
             "value": "0",
             "varName": "selected",
             "varType": 3
+        },
+        {
+            "id": "eecffe63-3784-41b7-9959-29c68b11757c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "spotCamo",
+            "varType": 3
         }
     ],
     "solid": false,

@@ -10,7 +10,7 @@ if (instance_number(obj_enemy) <= 0) {
 	// Increases enemy HP
 	//global.hp += 10;
 	// Speeds up enemy speed
-	//global.spd += 0.1;
+	global.spd_mod += 0.1;
 	// Speeds up spawns.
 	spawn_rate -= 2.5;
 	if (spawn_rate <= 0)

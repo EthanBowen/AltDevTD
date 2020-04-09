@@ -9,7 +9,7 @@ if(spawn_count <= spawn_amount) {
 	}
 	else
 	{
-		instance_create_depth(x,y,-1, obj_cookie_cutter);
+		instance_create_depth(x,y,-1, obj_hammerhead);
 	}
 	spawn_count++;
 	alarm[0] = spawn_rate;
