@@ -151,14 +151,6 @@
             }
         },
         {
-            "Key": "239152ab-c8d4-4c0b-8867-3bd11184ca19",
-            "Value": {
-                "id": "5bfbb583-e5a7-4ced-acbc-f73cd86125e5",
-                "resourcePath": "paths\\pth__ethans_map\\pth__ethans_map.yy",
-                "resourceType": "GMPath"
-            }
-        },
-        {
             "Key": "276ee657-4ef6-4629-9aee-194b9e59213c",
             "Value": {
                 "id": "f6aab8f7-963d-47f6-82e0-fb1a077f8d6a",
@@ -332,6 +324,14 @@
                 "id": "e90674d3-35d2-421c-a608-572a0d3f90f6",
                 "resourcePath": "sprites\\spr_tower02\\spr_tower02.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5e52ae2d-e342-4415-a8b1-68e7fc48ec26",
+            "Value": {
+                "id": "049f7c6e-0096-4936-9d97-1d508d128053",
+                "resourcePath": "paths\\pth_ethans_map\\pth_ethans_map.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -687,6 +687,14 @@
             }
         },
         {
+            "Key": "aa60a91c-864b-49d9-b1fc-3711bcab8f2e",
+            "Value": {
+                "id": "fbc0a264-dc44-44ff-97ef-ce8f166e2478",
+                "resourcePath": "fonts\\fnt_info\\fnt_info.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "ad9759f7-df8e-4073-af3c-3937f3df2f4b",
             "Value": {
                 "id": "8a6650d9-a198-433a-8b7c-ff102b9d292b",
@@ -699,6 +707,14 @@
             "Value": {
                 "id": "54c3b28e-a118-4290-a4bc-7568b202f272",
                 "resourcePath": "sprites\\spr_hammerhead\\spr_hammerhead.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "af991083-5826-4832-acc4-bde94f8fa4dc",
+            "Value": {
+                "id": "53ff20b4-0966-4108-95ef-d98dd6f9a04d",
+                "resourcePath": "sprites\\garbage_UI_holder\\garbage_UI_holder.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1002,7 +1018,7 @@
             "Key": "feb1848b-bd20-46d6-bcbb-40694d83eab0",
             "Value": {
                 "id": "ca160c80-372c-4169-8fb7-963b76e6ddda",
-                "resourcePath": "paths\\path_level01\\path_level01.yy",
+                "resourcePath": "paths\\pth_test_map\\pth_test_map.yy",
                 "resourceType": "GMPath"
             }
         }
