@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "17d686e1-84ab-4f84-a533-4c335aac74d3",
+            "Value": {
+                "id": "9119eea0-f4dc-4ae2-9573-97e3f91c4197",
+                "resourcePath": "timelines\\timeline_test\\timeline_test.yy",
+                "resourceType": "GMTimeline"
+            }
+        },
+        {
             "Key": "180ddc90-ffa3-4ee2-abbd-d9e7ed5ed43a",
             "Value": {
                 "id": "5afe4f6d-17f4-4c08-9749-e714b0c2f162",
