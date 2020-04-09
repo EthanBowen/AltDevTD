@@ -2,7 +2,7 @@
     "id": "feb1848b-bd20-46d6-bcbb-40694d83eab0",
     "modelName": "GMPath",
     "mvc": "1.0",
-    "name": "path_level01",
+    "name": "pth_test_map",
     "closed": false,
     "hsnap": 0,
     "kind": 0,
