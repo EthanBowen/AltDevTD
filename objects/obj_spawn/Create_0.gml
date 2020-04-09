@@ -10,6 +10,7 @@ alarm[1] = room_speed * 5;
 
 global.hp = 100;
 global.spd_mod = 0;
-global.level = 1;
+global.level = 0;
+global.start = false;
 
 global.coins = 500;
