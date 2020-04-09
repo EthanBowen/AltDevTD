@@ -1,6 +1,6 @@
 
 {
-    "name": "rm_test_map",
+    "name": "rm_unnamedMap01",
     "id": "73aa96d5-cf72-4b8f-b747-fc829b123238",
     "creationCodeFile": "",
     "inheritCode": false,

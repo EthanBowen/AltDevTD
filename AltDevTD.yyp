@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "46479615-980d-4a0f-85c3-319677aa7524",
+            "Value": {
+                "id": "383eb276-dc3e-4199-a786-1f5ab6fd6f60",
+                "resourcePath": "views\\46479615-980d-4a0f-85c3-319677aa7524.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "49e283fb-4e8b-4710-b287-4bcf836c76d4",
             "Value": {
                 "id": "08400305-7b1e-4336-a9af-b9d3034fe556",
@@ -268,6 +276,14 @@
                 "id": "b4d4c378-c34f-405d-a336-e30827a62559",
                 "resourcePath": "sprites\\spr_tower03\\spr_tower03.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5067bae2-5d09-48e7-87c7-03652e034b0c",
+            "Value": {
+                "id": "f64262e4-42db-45a8-9271-f38d1719626e",
+                "resourcePath": "paths\\path_unnamedMap03_pathA\\path_unnamedMap03_pathA.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -308,6 +324,14 @@
                 "id": "1574cbc8-42d1-4e39-a95a-c58617d962cc",
                 "resourcePath": "objects\\obj_Tower03_D\\obj_Tower03_D.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "596e35a5-0a2c-483b-b3db-7d2c41a1db77",
+            "Value": {
+                "id": "714e4aa0-fb39-4e57-ba5b-a14f518e7d2e",
+                "resourcePath": "rooms\\rm_unnamedMap03\\rm_unnamedMap03.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -415,6 +439,14 @@
             }
         },
         {
+            "Key": "65fb7ae6-5b2d-42d4-9aab-39ad83b96da3",
+            "Value": {
+                "id": "b71dd3a7-0c11-4260-afb4-b1586f7fe3a2",
+                "resourcePath": "paths\\path_unnamedMap03_pathE\\path_unnamedMap03_pathE.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "66beb4b7-757a-400b-8b7a-2a8c930c97c1",
             "Value": {
                 "id": "ef1bb640-adbf-41fc-b798-02d3d2b1f292",
@@ -495,6 +527,14 @@
             }
         },
         {
+            "Key": "71e32698-ca68-4139-ad54-8bb3d74321fd",
+            "Value": {
+                "id": "be0c29e5-19bb-4b57-9e6c-d8d4c624371a",
+                "resourcePath": "paths\\path_unnamedMap03_pathB\\path_unnamedMap03_pathB.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "72c59d2c-442b-4fe8-98a7-86c610232c59",
             "Value": {
                 "id": "90e7d4c3-f632-4f3c-8c18-8986950c14c5",
@@ -514,7 +554,7 @@
             "Key": "73aa96d5-cf72-4b8f-b747-fc829b123238",
             "Value": {
                 "id": "160647ea-18a2-44c6-a85a-aee0b4f79182",
-                "resourcePath": "rooms\\rm_test_map\\rm_test_map.yy",
+                "resourcePath": "rooms\\rm_unnamedMap01\\rm_unnamedMap01.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -903,6 +943,14 @@
             }
         },
         {
+            "Key": "ebd77ef8-932e-490e-bd1a-c5dff0c3934d",
+            "Value": {
+                "id": "4ca5d269-190b-4831-982c-901b6e45f6d9",
+                "resourcePath": "paths\\path_unnamedMap03_pathD\\path_unnamedMap03_pathD.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "ebe4d708-4d5d-43ef-8d1a-a9dfa118450a",
             "Value": {
                 "id": "26bb8449-e559-4820-877c-1769d505177e",
@@ -988,6 +1036,14 @@
                 "id": "80c4a81c-d6cb-4cdc-bc66-5927d820537b",
                 "resourcePath": "objects\\obj_invalid\\obj_invalid.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "faf92323-b678-4a44-ade2-28119d04a6cc",
+            "Value": {
+                "id": "cb483ed9-9ba1-4d6b-9506-8ad7ba249410",
+                "resourcePath": "paths\\path_unnamedMap03_pathC\\path_unnamedMap03_pathC.yy",
+                "resourceType": "GMPath"
             }
         },
         {
