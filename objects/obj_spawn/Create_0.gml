@@ -12,5 +12,4 @@ global.hp = 100;
 global.spd_mod = 0;
 global.level = 1;
 
-
 global.coins = 500;
