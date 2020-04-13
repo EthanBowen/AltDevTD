@@ -1,6 +1,8 @@
 /// @description Spawns enemies
 // You can write your code in this editor
 if(spawn_count <= spawn_amount) {
+	global.active_round = true;
+	global.start = false;
 	var created;
 	if(spawn_count%15 == 0)
 	{

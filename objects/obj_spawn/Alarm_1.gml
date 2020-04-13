@@ -17,8 +17,8 @@ if (global.start && !global.active_round) {
 		spawn_rate = 1;
 	alarm[0] = spawn_rate;
 	
-	global.active_round = true;
-	global.start = false;
+	//global.active_round = true;
+	//global.start = false;
 }
 
 //alarm[1] = room_speed * 5;
