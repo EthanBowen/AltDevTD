@@ -1,15 +1,18 @@
 /// @description Spawns enemies
 // You can write your code in this editor
-
 if(spawn_count <= spawn_amount) {
 	var created;
-	if(spawn_count%5 == 0)
+	if(spawn_count%15 == 0)
 	{
-		created = instance_create_depth(x,y,-1, obj_cat);
+		created = instance_create_depth(x,y,-1, obj_tiger);
+	}
+	else if(spawn_count%5 == 0)
+	{
+		created = instance_create_depth(x,y,-1, obj_hammerhead);
 	}
 	else
 	{
-		created = instance_create_depth(x,y,-1, obj_hammerhead);
+		created = instance_create_depth(x,y,-1, obj_cookie_cutter);
 	}
 	created.pathList = pathsList;
 	created.pathNaming = pathNaming;
@@ -19,3 +22,8 @@ if(spawn_count <= spawn_amount) {
 	spawn_count++;
 	alarm[0] = spawn_rate;
 }
+else
+{
+	global.active_round = false;
+}
+

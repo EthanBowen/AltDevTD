@@ -1,6 +1,6 @@
 /// @description Spawns next wave
 
-if (instance_number(obj_enemy) <= 0) {
+if (global.start && !global.active_round) {
 	// Reset wave
 	spawn_count = 1;
 	// Set number of spawns
@@ -16,6 +16,10 @@ if (instance_number(obj_enemy) <= 0) {
 	if (spawn_rate <= 0)
 		spawn_rate = 1;
 	alarm[0] = spawn_rate;
+	
+	global.active_round = true;
+	global.start = false;
 }
 
-alarm[1] = room_speed * 5;
+//alarm[1] = room_speed * 5;
+
