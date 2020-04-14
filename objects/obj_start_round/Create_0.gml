@@ -3,3 +3,6 @@
 image_speed = 0;
 start = false;
 action = -1;
+next_round = true;
+
+automaticallystartround = false;

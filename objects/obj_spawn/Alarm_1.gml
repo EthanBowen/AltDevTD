@@ -1,6 +1,6 @@
 /// @description Spawns next wave
 
-if (global.start && !global.active_round) {
+if (global.start/* && !global.active_round*/) {
 	// Reset wave
 	spawn_count = 1;
 	// Set number of spawns

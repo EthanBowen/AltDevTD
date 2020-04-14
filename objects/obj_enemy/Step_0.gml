@@ -1,6 +1,7 @@
 /// @description Checks HP of this enemy
 
 if (hp <= 0) {
+	global.coins += sharkMoney;
 	instance_destroy();
 }
 image_angle = direction;

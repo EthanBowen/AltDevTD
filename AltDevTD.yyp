@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "0fd1b9a4-b603-4348-922e-c805328c6984",
+            "Value": {
+                "id": "81fffe4c-6664-4772-8bc2-36919fa70bb7",
+                "resourcePath": "objects\\obj_Timeline\\obj_Timeline.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "17bd2158-6bd0-413d-9d4d-f6cebe1f2e9c",
             "Value": {
                 "id": "105417e4-c4d8-4a25-9cfd-c710567e59cf",
@@ -212,6 +220,14 @@
                 "id": "cec95d81-ad79-42a8-8d01-96f130ddf54d",
                 "resourcePath": "sprites\\spr_sticky_notes\\spr_sticky_notes.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3110da9c-68a1-4a69-ad58-06de1798fc4f",
+            "Value": {
+                "id": "c7ce8fef-e812-4ba3-8102-c7910f043b08",
+                "resourcePath": "timelines\\timeline_testing3\\timeline_testing3.yy",
+                "resourceType": "GMTimeline"
             }
         },
         {
@@ -343,6 +359,14 @@
             }
         },
         {
+            "Key": "57fcbfd1-1704-49b4-b388-5fecfb985abd",
+            "Value": {
+                "id": "1414735b-36a2-417a-b847-2ddd3d2e5009",
+                "resourcePath": "objects\\obj_TimelineManager\\obj_TimelineManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "596e35a5-0a2c-483b-b3db-7d2c41a1db77",
             "Value": {
                 "id": "714e4aa0-fb39-4e57-ba5b-a14f518e7d2e",
@@ -428,6 +452,14 @@
                 "id": "d9c29331-81c2-402b-8526-01ddb33c5aac",
                 "resourcePath": "sprites\\spr_tiger\\spr_tiger.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "61c88bc2-2b83-4322-9ad0-62d4b8203d39",
+            "Value": {
+                "id": "5e1d41df-9796-4eaf-af5e-bd8660a9ebb4",
+                "resourcePath": "objects\\obj_base\\obj_base.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -588,6 +620,14 @@
                 "id": "4ebea08b-15c4-4029-b9da-94d2caada56d",
                 "resourcePath": "objects\\obj_pebble\\obj_pebble.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "76f13920-ab0b-4810-9880-fddb8925fb50",
+            "Value": {
+                "id": "49289e78-a37b-4b84-94cf-09c187814e90",
+                "resourcePath": "sprites\\spr_base\\spr_base.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -759,6 +799,14 @@
             }
         },
         {
+            "Key": "a93e879d-7cac-4e40-bf1f-1d32cf2b86b2",
+            "Value": {
+                "id": "21bb217c-1a30-4b3d-a555-cf6a95063683",
+                "resourcePath": "views\\a93e879d-7cac-4e40-bf1f-1d32cf2b86b2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "aa60a91c-864b-49d9-b1fc-3711bcab8f2e",
             "Value": {
                 "id": "fbc0a264-dc44-44ff-97ef-ce8f166e2478",
@@ -919,11 +967,27 @@
             }
         },
         {
+            "Key": "da30b3a0-6dad-4c7e-bbec-6033031096a6",
+            "Value": {
+                "id": "cd83e611-cb7a-40cf-9048-a667639a805c",
+                "resourcePath": "timelines\\timeline_testing2\\timeline_testing2.yy",
+                "resourceType": "GMTimeline"
+            }
+        },
+        {
             "Key": "dbe9c927-b924-4912-8570-0ee4cd028e86",
             "Value": {
                 "id": "eb7d9bd6-b638-460b-bd53-9e8e633ed697",
                 "resourcePath": "sprites\\spr_pencils\\spr_pencils.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dd64fedb-9781-4d62-bb8b-ff0e93f50274",
+            "Value": {
+                "id": "4396a46b-cb93-41a4-a4db-ab54fb3027e4",
+                "resourcePath": "timelines\\timeline_testing1\\timeline_testing1.yy",
+                "resourceType": "GMTimeline"
             }
         },
         {

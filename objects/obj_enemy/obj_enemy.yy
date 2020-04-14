@@ -45,16 +45,6 @@
             "m_owner": "3f5f9676-0d83-41a6-beca-1d1b8f237406"
         },
         {
-            "id": "6cedcecc-68e8-4b93-962a-3aedf89a5bc7",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 4,
-            "eventtype": 7,
-            "m_owner": "3f5f9676-0d83-41a6-beca-1d1b8f237406"
-        },
-        {
             "id": "996780cd-4ae6-4a12-9c5e-e1598aa1175c",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -167,6 +157,34 @@
             "value": "",
             "varName": "pathNaming",
             "varType": 2
+        },
+        {
+            "id": "6360433d-4cc5-4746-b1b5-a3e0f9062ed4",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1",
+            "varName": "sharkDamage",
+            "varType": 1
+        },
+        {
+            "id": "98ea92b4-eeb8-49c7-a842-ebdfaf6643e6",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "20",
+            "varName": "sharkMoney",
+            "varType": 1
         }
     ],
     "solid": false,

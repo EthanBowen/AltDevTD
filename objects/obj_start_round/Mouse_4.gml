@@ -1,7 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(instance_number(obj_enemy) <= 0 && !global.active_round)
+if(instance_number(obj_enemy) <= 0  && next_round/*&& !global.active_round*/)
 {
+	next_round = false;
+	alarm[0] = room_speed * 1;
+	global.active_round = true;
 	start = true;
 	global.start = start;
 	var i;
