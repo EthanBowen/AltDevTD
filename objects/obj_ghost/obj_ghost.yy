@@ -70,6 +70,6 @@
         }
     ],
     "solid": false,
-    "spriteId": "2e42b5c4-2e8c-43b2-8f40-07ad21b604e3",
+    "spriteId": "1a2fce34-cf90-45aa-b1a7-7c2c523c9773",
     "visible": true
 }

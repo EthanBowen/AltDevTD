@@ -9,5 +9,5 @@ else {
 	pathStart = asset_get_index(pathNaming + pathFind);
 }
 
-path_start(pathStart, spd+global.spd_mod, 0, 1);
-thisSpeed = spd+global.spd_mod;
+path_start(pathStart, spd*global.spd_mod, 0, 1);
+thisSpeed = spd*global.spd_mod;
