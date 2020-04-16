@@ -6,8 +6,8 @@
     "children": [
         "5110f3af-0100-433a-8f8e-4be6bbb71a89",
         "74a0803a-fdeb-4f7a-aba6-4bb9a8928670",
-        "7f72fc2c-5e5a-402d-a839-18eb96102af4",
-        "72e610cb-3261-47ba-bfa2-724d37563519"
+        "1078a368-3e08-49e4-99ae-8639e56a9495",
+        "7f72fc2c-5e5a-402d-a839-18eb96102af4"
     ],
     "filterType": "GMObject",
     "folderName": "objgrp_bullets",

@@ -40,7 +40,17 @@
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "c14a00d0-0ec5-44c5-b08e-67290f74a45b"
+        },
+        {
+            "id": "7c004fab-8857-4971-acb3-cde983cb89aa",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 5,
             "eventtype": 6,
             "m_owner": "c14a00d0-0ec5-44c5-b08e-67290f74a45b"
         }
@@ -89,6 +99,20 @@
             "value": "0",
             "varName": "spotCamo",
             "varType": 3
+        },
+        {
+            "id": "47cb6064-965d-40f6-9218-7ad7837a276f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "obj_pebble",
+            "varName": "bullet",
+            "varType": 5
         }
     ],
     "solid": false,

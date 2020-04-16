@@ -21,6 +21,6 @@ if (en != noone) {
 	}
 }
 else {
-	shooting = false;
+	//shooting = false;
 	objectToShoot = noone;
 }
