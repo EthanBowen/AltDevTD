@@ -3,8 +3,8 @@
 if(instance_number(obj_enemy) <= 0  && next_round/*&& !global.active_round*/)
 {
 	next_round = false;
-	alarm[0] = room_speed * 1;
-	global.active_round = true;
+	//alarm[0] = room_speed * 1;
+	//global.active_round = true;
 	start = true;
 	global.start = start;
 	var i;

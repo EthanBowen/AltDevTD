@@ -26,6 +26,7 @@ if(spawn_count <= spawn_amount) {
 }
 else
 {
-	global.active_round = false;
+	//global.active_round = false;
+	obj_start_round.next_round = true;
 }
 
