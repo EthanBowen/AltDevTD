@@ -10,7 +10,7 @@ if(spawn_count <= spawn_amount) {
 	}
 	else if(spawn_count%5 == 0)
 	{
-		created = instance_create_depth(x,y,-1, obj_hammerhead);
+		created = instance_create_depth(x,y,-1, obj_nurse);
 	}
 	else
 	{

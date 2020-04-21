@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_nurse",
     "eventList": [
-        
+        {
+            "id": "962f20ea-bfff-45e0-bc1f-b51c7edbd2dc",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "27797c35-6444-47c0-8239-fad408111e15"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
@@ -39,7 +48,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "999e7c54-dbcc-4a73-be84-6c1182b99a40",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "100",
+            "varName": "range",
+            "varType": 0
+        }
+    ],
     "solid": false,
     "spriteId": "f3e298d2-3238-4a0e-bca6-e867f9ba5834",
     "visible": true
