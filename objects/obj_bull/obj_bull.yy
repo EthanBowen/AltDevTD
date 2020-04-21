@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_bull",
     "eventList": [
-        
+        {
+            "id": "6a940e94-5bd4-428b-a57d-c9972a8e3e25",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "ebe4d708-4d5d-43ef-8d1a-a9dfa118450a"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
