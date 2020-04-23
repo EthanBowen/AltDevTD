@@ -10,7 +10,9 @@
         "72c59d2c-442b-4fe8-98a7-86c610232c59",
         "496382b6-370e-4a0b-ae68-6bc34736af71",
         "f7f8bd08-6be9-4359-895c-f355c3edc1dc",
-        "11f4abbd-c438-4378-9878-0d8e8271a578"
+        "11f4abbd-c438-4378-9878-0d8e8271a578",
+        "7806faab-ff0a-41d4-b59f-ba8e3f791003",
+        "d80d2309-edcc-49fd-bc4e-5e670fdf628b"
     ],
     "filterType": "GMObject",
     "folderName": "objgrp_TowerClickables",

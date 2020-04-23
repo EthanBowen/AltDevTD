@@ -10,7 +10,9 @@
         "577bca54-a741-4953-a7b5-842046c17c13",
         "753b5ed3-ea07-4af4-b60d-ddad85410ba5",
         "e3df2cdc-9da2-4cf7-a355-852da69c3a4c",
-        "1030758d-66e7-43d9-abee-e27c8508b0d7"
+        "1030758d-66e7-43d9-abee-e27c8508b0d7",
+        "8f8a0068-58d3-4b84-8d3f-f84ad0572e4f",
+        "1da33dc7-dc19-43c4-8393-0cd43db69fa8"
     ],
     "filterType": "GMObject",
     "folderName": "objgrp_TowerDraggables",

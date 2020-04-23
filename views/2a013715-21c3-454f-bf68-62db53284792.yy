@@ -10,7 +10,9 @@
         "6f3b7425-2f06-4933-9e66-ae0d26197be7",
         "7b415628-71f1-4705-836e-5928960b7e2b",
         "0c1bbbb9-2b30-49c5-82d1-4b9685130444",
-        "a9817f37-d905-4f94-9fbd-0d27330f4f58"
+        "b352be08-b2a6-492e-9920-3b6ae771a27e",
+        "a9817f37-d905-4f94-9fbd-0d27330f4f58",
+        "a33304bb-288d-4c12-ae5a-bdd587246770"
     ],
     "filterType": "GMObject",
     "folderName": "objgrp_Towers",

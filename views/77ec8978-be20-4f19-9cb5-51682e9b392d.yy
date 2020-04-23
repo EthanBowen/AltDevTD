@@ -9,7 +9,9 @@
         "5d1f36ed-dfcb-4897-84e0-e709879140e5",
         "0b7f33b7-392a-48b9-b014-b832a4ba27e1",
         "a47d700f-83a1-419f-a1e7-19ee85ebbde9",
-        "5299ee01-6404-4293-9e81-dd5d249c2db2"
+        "5299ee01-6404-4293-9e81-dd5d249c2db2",
+        "940691b6-9a4e-47e6-b974-cc6329a0b419",
+        "823e4f74-a6ee-4692-aae8-f782dd7e9ab0"
     ],
     "filterType": "GMSprite",
     "folderName": "sprgrp_selecttowers",
