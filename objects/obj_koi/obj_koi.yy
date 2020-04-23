@@ -14,7 +14,7 @@
             "mvc": "1.0",
             "objectId": "c14a00d0-0ec5-44c5-b08e-67290f74a45b",
             "propertyId": "eecffe63-3784-41b7-9959-29c68b11757c",
-            "value": "True"
+            "value": "False"
         },
         {
             "id": "18fa1145-40b0-4079-81fb-e007a19b8843",
@@ -22,7 +22,7 @@
             "mvc": "1.0",
             "objectId": "c14a00d0-0ec5-44c5-b08e-67290f74a45b",
             "propertyId": "47cb6064-965d-40f6-9218-7ad7837a276f",
-            "value": "obj_turritella"
+            "value": "obj_big_shot"
         }
     ],
     "parentObjectId": "c14a00d0-0ec5-44c5-b08e-67290f74a45b",
@@ -50,7 +50,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "1000",
+            "value": "300",
             "varName": "range",
             "varType": 0
         },

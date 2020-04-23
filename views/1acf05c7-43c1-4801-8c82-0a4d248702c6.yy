@@ -9,7 +9,8 @@
         "ebabfb07-9aef-4fc8-8f4b-2c1da623ae0e",
         "f5b50350-b85d-4a08-bf17-6cb6a108a636",
         "db62f865-e976-4330-b7d4-4e15543a9642",
-        "23a1f5a1-f259-4dfa-a28e-1dfc22933f6c"
+        "23a1f5a1-f259-4dfa-a28e-1dfc22933f6c",
+        "a93f508f-86d4-4b7e-a861-140542536e01"
     ],
     "filterType": "GMSprite",
     "folderName": "sprgrp_bullets",
