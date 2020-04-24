@@ -1,4 +1,4 @@
 /// @description Sets up costs for the tower.
 
-cost = 500;
+cost = 750;
 event_inherited();

@@ -15,6 +15,14 @@
             "objectId": "5110f3af-0100-433a-8f8e-4be6bbb71a89",
             "propertyId": "efcd15af-47d6-4241-b97a-fcbaa7cc0046",
             "value": "25"
+        },
+        {
+            "id": "77dc592e-9480-4ab4-8072-8109a485294f",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "5110f3af-0100-433a-8f8e-4be6bbb71a89",
+            "propertyId": "44cdd07e-167e-4a54-aa9a-fbc4a1114c00",
+            "value": "3"
         }
     ],
     "parentObjectId": "5110f3af-0100-433a-8f8e-4be6bbb71a89",

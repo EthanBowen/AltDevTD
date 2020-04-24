@@ -32,6 +32,22 @@
             "objectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",
             "propertyId": "88f0c2dc-3cda-421f-8b28-7746c2c9c47f",
             "value": "2.5"
+        },
+        {
+            "id": "8c56ac17-d2f0-474e-97c8-d6ebe8179e75",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",
+            "propertyId": "6360433d-4cc5-4746-b1b5-a3e0f9062ed4",
+            "value": "5"
+        },
+        {
+            "id": "2ebc5a6c-99fe-4a0e-915a-102cb78efea3",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",
+            "propertyId": "98ea92b4-eeb8-49c7-a842-ebdfaf6643e6",
+            "value": "15"
         }
     ],
     "parentObjectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",
@@ -59,7 +75,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "100",
+            "value": "6",
             "varName": "range",
             "varType": 0
         }

@@ -42,11 +42,13 @@ if(spawn_count <= spawn_amount) {
 		event_user(0);
 	}
 	spawn_count++;
+	
 	alarm[0] = spawn_rate;
 }
 else
 {
 	//global.active_round = false;
 	obj_start_round.next_round = true;
+
 }
 
