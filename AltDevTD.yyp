@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "1e4c7dce-ebb6-4401-ac81-4e02ed14143a",
+            "Value": {
+                "id": "6218cde9-3569-456e-ab7e-761530b24609",
+                "resourcePath": "sounds\\music_level\\music_level.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1fa2f1d3-5a63-4358-920e-20b6eafa0d96",
             "Value": {
                 "id": "7789b151-6ad5-4603-b5ac-cdb1b62e9800",
@@ -975,6 +983,14 @@
             }
         },
         {
+            "Key": "b44877bb-e2f2-417b-b8ce-e8ff62bca4a0",
+            "Value": {
+                "id": "7ccdecf2-9165-48a9-9d31-00648b08884c",
+                "resourcePath": "scripts\\switchMusic\\switchMusic.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "b73a4c32-ee50-437e-86f9-2ea97ab903d3",
             "Value": {
                 "id": "41c7181f-0a5e-4cd8-a72e-ae24713da0d4",
@@ -1271,6 +1287,14 @@
             }
         },
         {
+            "Key": "ee4835ba-480e-42fb-a10b-85f470555048",
+            "Value": {
+                "id": "71d047a9-c323-4020-957b-52bc4a3ae007",
+                "resourcePath": "sounds\\music_mainmenu\\music_mainmenu.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "f066cc35-eb20-475b-9e8c-8ce56453d366",
             "Value": {
                 "id": "fe737260-649f-45cf-a366-d72b2ce4da05",
@@ -1385,7 +1409,8 @@
     ],
     "script_order": [
         "2994161a-b96c-4698-99da-83bc90bc01ea",
-        "21684bb6-3a1f-45c2-9347-3cfaea145ce0"
+        "21684bb6-3a1f-45c2-9347-3cfaea145ce0",
+        "b44877bb-e2f2-417b-b8ce-e8ff62bca4a0"
     ],
     "tutorial": ""
 }

@@ -9,8 +9,7 @@ if(room == rm_start_screen)
 	draw_set_font(fnt_title);
 	draw_text(room_width*0.5, room_height*0.3, "Feeding Frenzy");
 }
-
-if(room == rm_map_select)
+else if(room == rm_map_select)
 {
 	draw_set_color(c_white);
 	draw_set_halign(fa_center);
@@ -18,4 +17,7 @@ if(room == rm_map_select)
 	
 	draw_set_font(fnt_title);
 	draw_text(room_width*0.5, room_height*0.3, "Select a map");
+}
+else {
+
 }
