@@ -50,7 +50,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "1000",
+            "value": "4000",
             "varName": "range",
             "varType": 0
         },
@@ -64,7 +64,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "1",
+            "value": "1.5",
             "varName": "bullets_per_second",
             "varType": 0
         }

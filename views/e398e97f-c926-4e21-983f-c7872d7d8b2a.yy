@@ -10,7 +10,8 @@
         "7f72fc2c-5e5a-402d-a839-18eb96102af4",
         "c19cfa39-d3ae-4bbf-a38f-e11271aa9abe",
         "3011425e-3949-4438-ad46-8acd743a89f4",
-        "cbbfb98e-22d2-47c7-a264-c4493f694c7b"
+        "cbbfb98e-22d2-47c7-a264-c4493f694c7b",
+        "7f6c9cd7-6fe4-4ac4-a7ce-eb63e2a16faf"
     ],
     "filterType": "GMObject",
     "folderName": "objgrp_bullets",

@@ -1,6 +1,7 @@
 /// @description Sets HP and Path
 distance = 0;
 pathAdvance = 0;
+defaultCamo = camo;
 /*
 if (pathList == "") {
 	pathStart = global.selected_path;

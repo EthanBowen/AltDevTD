@@ -10,6 +10,4 @@ global.level = 0;
 global.start = false;
 global.active_round = false;
 
-global.coins = 500;
-
 end_round = false;

@@ -45,6 +45,6 @@
         
     ],
     "solid": false,
-    "spriteId": "2e42b5c4-2e8c-43b2-8f40-07ad21b604e3",
+    "spriteId": "a47d700f-83a1-419f-a1e7-19ee85ebbde9",
     "visible": true
 }
