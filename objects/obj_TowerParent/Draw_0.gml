@@ -5,8 +5,7 @@ if (selected || mouseOver(x, y, sprite_width, sprite_height)) {
 	draw_circle(x, y, range, true);
 }
 
-// TODO: Change to find enemy furthest along path.
-var en = findTarget(x, y, range);
+var en = findTarget(x, y, range, spotCamo);
 
 // Found an enemy
 if (en != noone) {
@@ -21,6 +20,6 @@ if (en != noone) {
 	}
 }
 else {
-	shooting = false;
+	//shooting = false;
 	objectToShoot = noone;
 }

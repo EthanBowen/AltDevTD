@@ -13,6 +13,36 @@
             "enumb": 64,
             "eventtype": 8,
             "m_owner": "8f204b67-dc39-4742-8a9f-52c490de4f07"
+        },
+        {
+            "id": "4113fad8-8cff-4741-9995-0624bb4c635e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "8f204b67-dc39-4742-8a9f-52c490de4f07"
+        },
+        {
+            "id": "cfe85f49-5cf9-4c78-a0af-8355f28defa3",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "8f204b67-dc39-4742-8a9f-52c490de4f07"
+        },
+        {
+            "id": "e154afa7-e9e3-462a-a4d6-d2957b360e40",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "8f204b67-dc39-4742-8a9f-52c490de4f07"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -31,7 +61,36 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "db424a7f-1b7b-40a3-ac4b-1a32ba7caf8d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "75",
+            "varName": "start_coins",
+            "varType": 1
+        },
+        {
+            "id": "5fae15ce-2991-43b5-93b7-58b33c9be64e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "100",
+            "varName": "start_HP",
+            "varType": 1
+        }
+    ],
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true

@@ -1,3 +1,2 @@
-/// @description Gives players coins on death
+/// @description 
 
-global.coins += 20;
