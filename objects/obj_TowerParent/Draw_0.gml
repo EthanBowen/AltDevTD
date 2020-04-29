@@ -5,7 +5,7 @@ if (selected || mouseOver(x, y, sprite_width, sprite_height)) {
 	draw_circle(x, y, range, true);
 }
 
-var en = findTarget(x, y, range, spotCamo);
+var en = findTarget(x, y, range, spotCamo, targetingType);
 
 // Found an enemy
 if (en != noone) {

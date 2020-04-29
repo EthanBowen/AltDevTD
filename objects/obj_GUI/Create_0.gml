@@ -11,3 +11,5 @@ global.start = false;
 global.active_round = false;
 
 end_round = false;
+
+selectedTower = noone;
