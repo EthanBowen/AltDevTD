@@ -335,6 +335,14 @@
             }
         },
         {
+            "Key": "335b6b43-1e7c-442b-aa22-55756ee9a41d",
+            "Value": {
+                "id": "a13bfd72-d1f2-4624-8687-6ffdac4acb25",
+                "resourcePath": "objects\\obj_closest_button\\obj_closest_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "33ad162a-d362-487e-9057-4c86d7655b04",
             "Value": {
                 "id": "1555c8b3-262d-4def-a686-caf60b8567cd",
@@ -348,6 +356,14 @@
                 "id": "e59b73fe-dbfa-4bbb-9569-dbd4127138d6",
                 "resourcePath": "fonts\\fnt_title\\fnt_title.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "353dbffd-7b4c-4c7e-af1e-7eed2cc5393a",
+            "Value": {
+                "id": "b9e9e998-2532-4085-af4f-049ae15f3fee",
+                "resourcePath": "views\\353dbffd-7b4c-4c7e-af1e-7eed2cc5393a.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -484,6 +500,14 @@
                 "id": "a2e8208a-9245-487b-9fe1-bfa55c306852",
                 "resourcePath": "sprites\\spr_lion\\spr_lion.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "587c7dc4-1009-486c-bca5-d7957746812f",
+            "Value": {
+                "id": "4acf675b-a371-4f45-88df-c2f5b2795545",
+                "resourcePath": "objects\\obj_auto_round\\obj_auto_round.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1063,6 +1087,14 @@
             }
         },
         {
+            "Key": "ab0f7d27-7bdc-45e4-8d7e-10d57f0125fd",
+            "Value": {
+                "id": "fae192ab-fce8-4928-b0f8-c3290987a485",
+                "resourcePath": "objects\\obj_targeting_button\\obj_targeting_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ad9759f7-df8e-4073-af3c-3937f3df2f4b",
             "Value": {
                 "id": "8a6650d9-a198-433a-8b7c-ff102b9d292b",
@@ -1100,6 +1132,14 @@
                 "id": "7ccdecf2-9165-48a9-9d31-00648b08884c",
                 "resourcePath": "scripts\\switchMusic\\switchMusic.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b7170611-3c31-4a9e-95ae-4d83b4b4b4a8",
+            "Value": {
+                "id": "8a56690f-57b3-43cb-970f-08614cdc22ae",
+                "resourcePath": "objects\\obj_furthest_button\\obj_furthest_button.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1215,6 +1255,14 @@
             }
         },
         {
+            "Key": "d1839a1d-0fd6-4b55-8ef3-1795760a8f1e",
+            "Value": {
+                "id": "df15d92b-8f50-4d5a-b7ce-464444a9a53f",
+                "resourcePath": "objects\\obj_UI\\obj_UI.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d35405d1-019c-4abd-8c38-81247d14d47c",
             "Value": {
                 "id": "2e5c4f80-ffda-4b26-b1df-16cf797de2a2",
@@ -1295,6 +1343,14 @@
             }
         },
         {
+            "Key": "e173b60f-19f1-40ee-a3bb-afc6210ba721",
+            "Value": {
+                "id": "6ae48938-8f76-4324-8860-34d65430be96",
+                "resourcePath": "sprites\\spr_targeting_button\\spr_targeting_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e398e97f-c926-4e21-983f-c7872d7d8b2a",
             "Value": {
                 "id": "d4399aab-e0af-4050-bf88-b15655a23db9",
@@ -1340,6 +1396,14 @@
                 "id": "00f5bfa8-8f5b-434e-9442-62b3686bb157",
                 "resourcePath": "views\\e5f7a65c-3e6c-4cb7-bca2-bed8507caedc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e77924a9-79b6-44d5-9b4a-949832310f14",
+            "Value": {
+                "id": "d855bbdc-cb43-434d-8a23-ad1a7832e616",
+                "resourcePath": "sprites\\spr_auto_button\\spr_auto_button.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
