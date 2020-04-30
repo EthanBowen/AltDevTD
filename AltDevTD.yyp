@@ -423,6 +423,14 @@
             }
         },
         {
+            "Key": "4f0967f2-6b8d-4a3a-9a74-57cc32767844",
+            "Value": {
+                "id": "1eafd2c4-4d06-407a-b821-0028144fa852",
+                "resourcePath": "objects\\obj_map_master\\obj_map_master.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4fcca6ac-7aab-480f-bf4e-d200529b9543",
             "Value": {
                 "id": "b4d4c378-c34f-405d-a336-e30827a62559",
@@ -1103,6 +1111,14 @@
             }
         },
         {
+            "Key": "ab5a25d1-8d37-4ced-a007-d1d7185ea249",
+            "Value": {
+                "id": "883286f7-1e30-4d6c-83b1-b2ecbd221d2e",
+                "resourcePath": "fonts\\fnt_map\\fnt_map.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "ad9759f7-df8e-4073-af3c-3937f3df2f4b",
             "Value": {
                 "id": "8a6650d9-a198-433a-8b7c-ff102b9d292b",
@@ -1266,7 +1282,7 @@
             "Key": "d1839a1d-0fd6-4b55-8ef3-1795760a8f1e",
             "Value": {
                 "id": "df15d92b-8f50-4d5a-b7ce-464444a9a53f",
-                "resourcePath": "objects\\obj_UI\\obj_UI.yy",
+                "resourcePath": "objects\\obj_UI_master\\obj_UI_master.yy",
                 "resourceType": "GMObject"
             }
         },

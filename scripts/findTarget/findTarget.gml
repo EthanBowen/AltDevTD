@@ -6,10 +6,11 @@ var spotCamo = argument3;
 var targetingType = argument4;
 
 var value = -1;
+var distance = -1;
 var newTarget = noone;
 
 
-if(targetingType != 2)
+if(targetingType != 1)
 {
 	var i;
 	for (i = 0; i < instance_number(obj_enemy); i += 1)
@@ -32,23 +33,43 @@ if(targetingType != 2)
 			   }
 			   else if(targetingType == 1)
 			   {
-				   if(en.hp <= value || value <= 0)
+				   if(en.hp < value || value <= 0)
 				   {
 					   if(spotCamo || !en.camo)
 					   {
 						   newTarget = en;
 						   value = en.hp;
+						   distance = en.path_position;
+					   }
+				   }
+				   else if(en.hp == value && en.path_position > distance)
+				   {
+					   if(spotCamo || !en.camo)
+					   {
+						   newTarget = en;
+						   value = en.hp;
+						   distance = en.path_position;
 					   }
 				   }
 			   }
 			   else
 			   {
-				   if(en.hp >= value)
+				   if(en.hp > value)
 				   {
 					   if(spotCamo || !en.camo)
 					   {
 						   newTarget = en;
 						   value = en.hp;
+						   distance = en.path_position;
+					   }
+				   }
+				   else if(en.hp == value && en.path_position > distance)
+				   {
+					   if(spotCamo || !en.camo)
+					   {
+						   newTarget = en;
+						   value = en.hp;
+						   distance = en.path_position;
 					   }
 				   }
 			   }
@@ -61,7 +82,10 @@ else
 	var en = instance_nearest(xx,yy,obj_enemy);
 	if(en != noone)
 	{
-		newTarget = en;
+		if (point_distance(xx,yy,en.x,en.y) <= range + (en.size / 2)) 
+		{
+			newTarget = en;
+		}
 	}
 }
 

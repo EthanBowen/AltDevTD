@@ -7,6 +7,18 @@ if (automaticallystartround) {
 else
 {
 	col = c_white;
+	if(!(instance_number(obj_enemy) <= 0  && next_round))
+	{
+		image_index = 2;
+	}
+	else if(mouseOver(x, y, sprite_width, sprite_height))
+	{
+		image_index = 1;
+	}	
+	else
+	{
+		image_index = 0;
+	}
 }
 
 draw_sprite_ext(sprite_index, image_index, x, y, 1, 1, 0, col, 1);
