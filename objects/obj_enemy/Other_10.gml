@@ -11,3 +11,4 @@ else {
 
 path_start(pathStart, spd*global.spd_mod, 0, 1);
 thisSpeed = spd*global.spd_mod;
+image_speed = thisSpeed;

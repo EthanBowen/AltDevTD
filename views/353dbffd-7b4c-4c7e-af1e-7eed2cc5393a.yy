@@ -9,7 +9,7 @@
         "e173b60f-19f1-40ee-a3bb-afc6210ba721"
     ],
     "filterType": "GMSprite",
-    "folderName": "aprgrp_UI",
+    "folderName": "sprgrp_UI",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
