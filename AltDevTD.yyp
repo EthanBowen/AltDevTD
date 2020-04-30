@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "2c674a0c-9747-40ad-9f29-a095747e1924",
+            "Value": {
+                "id": "832776f6-db13-4f31-8910-d13e9f8aa72f",
+                "resourcePath": "objects\\obj_strongest_button\\obj_strongest_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2df2283d-3013-4baa-9814-f1e312366aae",
             "Value": {
                 "id": "3e95b264-6812-4d73-a868-d53a70f4e00f",
@@ -1548,6 +1556,14 @@
                 "id": "fa4e0f36-f025-4d17-ba7d-fad8269e12fc",
                 "resourcePath": "views\\f4e8c0b4-bdee-408e-95fa-6190c034aa4e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f4ed1ca2-f51f-4f9d-a127-5c9479fa192f",
+            "Value": {
+                "id": "288b4c44-49b0-4dc2-ad8a-c41eea4e2b67",
+                "resourcePath": "objects\\obj_weakest_button\\obj_weakest_button.yy",
+                "resourceType": "GMObject"
             }
         },
         {

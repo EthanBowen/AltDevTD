@@ -35,5 +35,19 @@ if(!instance_exists(GUI_item))
 				on = true;
 			}
 		}
+		else if(selectedTower.targetingType == 2)
+		{
+			with(obj_weakest_button)
+			{
+				on = true;
+			}
+		}
+		else
+		{
+			with(obj_strongest_button)
+			{
+				on = true;
+			}
+		}
 	}
 }
