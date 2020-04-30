@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "230fd34a-6ceb-4524-ad28-c0c2ebc9006a",
+            "Value": {
+                "id": "fa0c302b-44d7-4354-a572-4437a69845df",
+                "resourcePath": "sprites\\spr_remora\\spr_remora.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "23a1f5a1-f259-4dfa-a28e-1dfc22933f6c",
             "Value": {
                 "id": "fadedbf7-af55-4ebd-8899-7788460e6f42",
@@ -959,6 +967,14 @@
             }
         },
         {
+            "Key": "8c49398c-7a70-4001-8426-e02d9a01515b",
+            "Value": {
+                "id": "b00b2c27-e217-4600-949a-f94198bd613b",
+                "resourcePath": "sprites\\spr_snipe\\spr_snipe.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8d9bc904-65ab-4156-9a17-1eb60dc37aae",
             "Value": {
                 "id": "2918e57a-a501-4d38-addc-99b21e8c8c65",
@@ -1138,7 +1154,7 @@
             "Key": "af991083-5826-4832-acc4-bde94f8fa4dc",
             "Value": {
                 "id": "53ff20b4-0966-4108-95ef-d98dd6f9a04d",
-                "resourcePath": "sprites\\garbage_UI_holder\\garbage_UI_holder.yy",
+                "resourcePath": "sprites\\UI_holder\\UI_holder.yy",
                 "resourceType": "GMSprite"
             }
         },
