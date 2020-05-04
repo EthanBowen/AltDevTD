@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Begins the next round
 if(instance_number(obj_enemy) <= 0  && next_round/*&& !global.active_round*/)
 {
 	next_round = false;
@@ -7,6 +6,8 @@ if(instance_number(obj_enemy) <= 0  && next_round/*&& !global.active_round*/)
 	//global.active_round = true;
 	start = true;
 	global.start = start;
+	global.level++;
+	global.spd_mod += 0.1;
 	var i;
 	for (i = 0; i < instance_number(obj_spawn); i += 1)
 	{

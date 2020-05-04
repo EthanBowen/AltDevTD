@@ -66,7 +66,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "rm_unnamedMap03",
+            "value": "rm_ThreeFronts",
             "varName": "mapRoom",
             "varType": 5
         },
