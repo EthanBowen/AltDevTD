@@ -14,7 +14,7 @@ if (instance_exists(objectToShoot)) {
 	proj.tower = self;
 	proj.speed = 10;
 	proj.direction = point_direction(x,y,objectToShoot.x, objectToShoot.y) + 30;
-	alarm[0] = fire_rate;
+	alarm[0] = fire_rate/global.fast_forward;
 }
 else {
 	shooting = false;

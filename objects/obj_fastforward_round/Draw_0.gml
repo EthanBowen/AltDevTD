@@ -1,16 +1,20 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(mouseOver(x, y, sprite_width, sprite_height))
-{
-	image_index = 1;
-}
-else if(active)
+if(active)
 {
 	image_index = 2;
+	if(mouseOver(x, y, sprite_width, sprite_height))
+	{
+		image_index = 3;
+	}
 }	
 else
 {
 	image_index = 0;
+	if(mouseOver(x, y, sprite_width, sprite_height))
+	{
+		image_index = 1;
+	}
 }
 
 draw_self();
