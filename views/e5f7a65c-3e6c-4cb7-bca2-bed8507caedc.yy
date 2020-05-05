@@ -11,7 +11,11 @@
         "b7170611-3c31-4a9e-95ae-4d83b4b4b4a8",
         "335b6b43-1e7c-442b-aa22-55756ee9a41d",
         "f4ed1ca2-f51f-4f9d-a127-5c9479fa192f",
-        "2c674a0c-9747-40ad-9f29-a095747e1924"
+        "2c674a0c-9747-40ad-9f29-a095747e1924",
+        "7b750f6a-9edb-47ce-968f-11f173d25df5",
+        "5d554699-881e-4374-ba6e-e2f21358d34c",
+        "8f228fa6-450e-4e4a-bc70-7c6c560f8aad",
+        "9f50ce54-4d81-46df-868b-910c351fd54c"
     ],
     "filterType": "GMObject",
     "folderName": "objgrp_UI",

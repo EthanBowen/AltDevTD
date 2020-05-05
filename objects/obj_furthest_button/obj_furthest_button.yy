@@ -15,6 +15,14 @@
             "objectId": "ab0f7d27-7bdc-45e4-8d7e-10d57f0125fd",
             "propertyId": "157c15e6-c4c9-4e4f-add4-34ecc4cfb3b6",
             "value": "Front"
+        },
+        {
+            "id": "c0a29ce9-0268-4354-83fc-628d9a543761",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
+            "propertyId": "eab83020-0082-452a-831a-372a93c42442",
+            "value": "\"Makes the selected tower target the farthest shark on the path.\""
         }
     ],
     "parentObjectId": "ab0f7d27-7bdc-45e4-8d7e-10d57f0125fd",

@@ -5,13 +5,13 @@
     "name": "obj_nurse",
     "eventList": [
         {
-            "id": "962f20ea-bfff-45e0-bc1f-b51c7edbd2dc",
+            "id": "a61df787-5469-4595-b095-055a976f91b3",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 8,
+            "eventtype": 3,
             "m_owner": "27797c35-6444-47c0-8239-fad408111e15"
         }
     ],
@@ -31,7 +31,7 @@
             "mvc": "1.0",
             "objectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",
             "propertyId": "88f0c2dc-3cda-421f-8b28-7746c2c9c47f",
-            "value": "2.5"
+            "value": "1.5"
         },
         {
             "id": "8c56ac17-d2f0-474e-97c8-d6ebe8179e75",
@@ -75,7 +75,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "6",
+            "value": "100",
             "varName": "range",
             "varType": 0
         }

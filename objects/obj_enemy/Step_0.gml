@@ -1,12 +1,18 @@
 /// @description Checks HP of this enemy
-
-if (hp <= 0) {
-	global.coins += sharkMoney;
-	instance_destroy();
-}
 image_angle = direction;
 
 distance += spd;
+
+camo = defaultCamo;
+for (i = 0; i < instance_number(obj_nurse); i += 1)
+{
+	nurse = instance_find(obj_nurse, i);
+	if (point_distance(x,y,nurse.x,nurse.y) <= nurse.range)
+	{
+		camo = true;
+		i = instance_number(obj_nurse);
+	}
+}
 
 // Changes the path of this enemy (if it has more paths to follow)
 // once it reaches the path of the current one.

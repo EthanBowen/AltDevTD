@@ -41,6 +41,7 @@ if(spawn_count <= spawn_amount) {
 	with(created) {
 		event_user(0);
 	}
+
 	spawn_count++;
 	
 	alarm[0] = spawn_rate;
