@@ -52,6 +52,14 @@
             "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
             "propertyId": "eab83020-0082-452a-831a-372a93c42442",
             "value": "\"Click here to select this fish.\\n\\nThe remora fish was once friend to the sharks. They gathered intel in this time and are now sharing it with the fish. They allow surounding fish to see camo sharks even if they originally couldn't.\""
+        },
+        {
+            "id": "a355a51e-38d4-42e1-aa0a-b159752b8686",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "c14a00d0-0ec5-44c5-b08e-67290f74a45b",
+            "propertyId": "71b5bca1-1057-455a-b103-46aedf966114",
+            "value": "250"
         }
     ],
     "parentObjectId": "c14a00d0-0ec5-44c5-b08e-67290f74a45b",
