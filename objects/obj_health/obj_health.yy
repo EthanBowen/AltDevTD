@@ -23,7 +23,7 @@
             "mvc": "1.0",
             "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
             "propertyId": "eab83020-0082-452a-831a-372a93c42442",
-            "value": "\"This will display the amount of money you currently have. You gain money from defeating sharks and at the end of rounds. Money is spent on towers.\""
+            "value": "\"This is your health. It will decrease with every shark you let get to the end. Different sharks take different amounts of health!\""
         }
     ],
     "parentObjectId": "d1839a1d-0fd6-4b55-8ef3-1795760a8f1e",

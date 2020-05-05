@@ -46,8 +46,17 @@
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": [
+        {
+            "id": "ddbcce02-1fd7-416c-9129-e31b179fab7a",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
+            "propertyId": "eab83020-0082-452a-831a-372a93c42442",
+            "value": "\"Click to place this fish. The white circle indicates the fishes range. If the fish is red then it can't fit so you have to find a different spot for it.\""
+        }
+    ],
+    "parentObjectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

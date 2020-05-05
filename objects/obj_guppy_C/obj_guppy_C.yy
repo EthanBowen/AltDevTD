@@ -33,7 +33,7 @@
             "mvc": "1.0",
             "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
             "propertyId": "eab83020-0082-452a-831a-372a93c42442",
-            "value": "\"The guppy is the weakest of the fish. It can't see camo and only throws small pebbles\""
+            "value": "\"Click here to buy this fish.\\n\\nThe guppy is the weakest of the fish. It can't see camo and only throws small pebbles\""
         }
     ],
     "parentObjectId": "b73a4c32-ee50-437e-86f9-2ea97ab903d3",

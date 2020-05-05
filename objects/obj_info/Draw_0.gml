@@ -21,7 +21,7 @@ if(active)
 		draw_set_color(c_black);
 		draw_set_font(fnt_info);
 	
-		draw_text_ext(x-10,y,item.info,3*font_get_size(fnt_info)/2,sprite_width - 30);
+		draw_text_ext(x-10,y+sprite_height/9,item.info,3*font_get_size(fnt_info)/2,sprite_width - 30);
 		
 		draw_set_color(c_white);
 	}	
