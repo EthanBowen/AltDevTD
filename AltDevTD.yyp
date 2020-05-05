@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "168f66bc-a9ce-4670-8998-204753872eef",
+            "Value": {
+                "id": "5b2112f5-fad0-4289-8337-184240ae2567",
+                "resourcePath": "objects\\obj_mapselect_button\\obj_mapselect_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "17bd2158-6bd0-413d-9d4d-f6cebe1f2e9c",
             "Value": {
                 "id": "105417e4-c4d8-4a25-9cfd-c710567e59cf",
@@ -623,6 +631,14 @@
             }
         },
         {
+            "Key": "5adb3372-0015-41b7-9d21-25dab88494c9",
+            "Value": {
+                "id": "da27731f-0e96-4d05-ab7a-e9865f00010f",
+                "resourcePath": "sprites\\spr_exit\\spr_exit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5d1f36ed-dfcb-4897-84e0-e709879140e5",
             "Value": {
                 "id": "f78c06d1-cdc2-41a9-bcf9-8c8124c0428c",
@@ -927,6 +943,14 @@
             }
         },
         {
+            "Key": "75a3f70b-b8d2-449c-9a07-dc927330ae91",
+            "Value": {
+                "id": "b6dc00cc-dce1-483c-b7c9-f60c5ecbf30a",
+                "resourcePath": "objects\\obj_exit_button\\obj_exit_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "76f13920-ab0b-4810-9880-fddb8925fb50",
             "Value": {
                 "id": "49289e78-a37b-4b84-94cf-09c187814e90",
@@ -1076,6 +1100,14 @@
                 "id": "47739316-19b4-4675-a77c-875e532deb91",
                 "resourcePath": "views\\859eb99d-4511-4618-ab1a-b529f73ef043.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8774ec7a-11e9-491f-8856-505b8226531d",
+            "Value": {
+                "id": "3eb4401b-fb54-4b72-949a-2d8c6b0647ed",
+                "resourcePath": "sprites\\spr_quit_menu\\spr_quit_menu.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1343,6 +1375,14 @@
             }
         },
         {
+            "Key": "b57f2992-8035-4aa1-a6b7-d1125be01dee",
+            "Value": {
+                "id": "dacd9c7b-8c9f-47a8-974b-0f61f6c524d1",
+                "resourcePath": "objects\\obj_exit_menu\\obj_exit_menu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b7170611-3c31-4a9e-95ae-4d83b4b4b4a8",
             "Value": {
                 "id": "8a56690f-57b3-43cb-970f-08614cdc22ae",
@@ -1583,6 +1623,14 @@
             }
         },
         {
+            "Key": "dd8f70ae-2569-471b-9590-06a904501064",
+            "Value": {
+                "id": "186dfd05-4d5d-4382-a93a-ae0391058e37",
+                "resourcePath": "objects\\obj_cancelExit_button\\obj_cancelExit_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dfe5e798-922b-47df-9009-6035c1ba748a",
             "Value": {
                 "id": "a8556d2c-6840-412e-b256-bc5b2359c072",
@@ -1795,6 +1843,14 @@
             "Value": {
                 "id": "b2650a91-195b-43b4-9c84-c3148bfb564e",
                 "resourcePath": "objects\\obj_UI_Holder\\obj_UI_Holder.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f218844d-ee84-4d3d-a1f8-c5c152736778",
+            "Value": {
+                "id": "ee4e9108-2441-45e0-bde3-2ab224cc19b0",
+                "resourcePath": "objects\\obj_exitgame_button\\obj_exitgame_button.yy",
                 "resourceType": "GMObject"
             }
         },

@@ -14,6 +14,8 @@ global.fast_forward = 1;
 
 global.placingTower = false;
 
+global.exitReady = false;
+
 end_round = false;
 
 selectedTower = noone;
