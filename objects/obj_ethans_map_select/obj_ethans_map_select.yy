@@ -14,7 +14,7 @@
             "mvc": "1.0",
             "objectId": "4f0967f2-6b8d-4a3a-9a74-57cc32767844",
             "propertyId": "c9c13745-38f1-4051-8354-fb151c565e09",
-            "value": "Ethan's Map"
+            "value": "Winding River"
         },
         {
             "id": "dd535a7d-8c0f-4108-b056-509293cf8b36",
