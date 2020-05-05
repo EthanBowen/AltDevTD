@@ -31,6 +31,14 @@
             "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
             "propertyId": "eab83020-0082-452a-831a-372a93c42442",
             "value": "\"Click here to select this fish.\\n\\nThe koi fish comes with great stength. We're not really sure why, but these koi have the ability to launch boulders for massive damage. They can't see camo.\""
+        },
+        {
+            "id": "446ea819-0f3a-42c6-8f7d-82950ef8260b",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "c14a00d0-0ec5-44c5-b08e-67290f74a45b",
+            "propertyId": "71b5bca1-1057-455a-b103-46aedf966114",
+            "value": "400"
         }
     ],
     "parentObjectId": "c14a00d0-0ec5-44c5-b08e-67290f74a45b",

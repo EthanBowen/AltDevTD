@@ -23,6 +23,14 @@
             "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
             "propertyId": "eab83020-0082-452a-831a-372a93c42442",
             "value": "\"Click here to select this fish.\\n\\nWho gave this fish a torpedo launcher?? The yellowfins are capable of launching explosives that linger for awhile after impact to deal extra damage. They can't see camo though\""
+        },
+        {
+            "id": "81eed7c1-b58b-4951-a445-9a9ba7c22684",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "c14a00d0-0ec5-44c5-b08e-67290f74a45b",
+            "propertyId": "71b5bca1-1057-455a-b103-46aedf966114",
+            "value": "100"
         }
     ],
     "parentObjectId": "c14a00d0-0ec5-44c5-b08e-67290f74a45b",

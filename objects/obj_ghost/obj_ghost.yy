@@ -31,6 +31,14 @@
             "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
             "propertyId": "eab83020-0082-452a-831a-372a93c42442",
             "value": "\"Click here to select this fish.\\n\\nThe clown fish has a decent range and power though it shoots a little slow. This fish is ready to clown on any camo sharks and see right through their disguises.\""
+        },
+        {
+            "id": "e7525f5b-b09d-48ce-8c74-7db6e872635e",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "c14a00d0-0ec5-44c5-b08e-67290f74a45b",
+            "propertyId": "71b5bca1-1057-455a-b103-46aedf966114",
+            "value": "20"
         }
     ],
     "parentObjectId": "c14a00d0-0ec5-44c5-b08e-67290f74a45b",
