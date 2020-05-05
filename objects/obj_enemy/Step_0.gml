@@ -1,7 +1,7 @@
 /// @description Checks HP of this enemy
 image_angle = direction;
 
-distance += spd;
+distance += thisSpeed;
 
 camo = defaultCamo;
 for (i = 0; i < instance_number(obj_nurse); i += 1)

@@ -8,6 +8,6 @@ draw_set_valign(fa_middle);
 draw_set_color(c_black);
 draw_set_font(fnt_money);
 
-draw_text(x+3*sprite_width/4, y+sprite_height/2, global.coins);
+draw_text(x+sprite_width/4, y, global.coins);
 
 draw_set_color(c_white);
