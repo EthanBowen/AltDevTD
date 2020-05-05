@@ -79,6 +79,20 @@
             "value": "1",
             "varName": "penetration",
             "varType": 1
+        },
+        {
+            "id": "124b343f-0329-4318-a19f-e9b799d6ffbd",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "10",
+            "varName": "spd",
+            "varType": 0
         }
     ],
     "solid": false,

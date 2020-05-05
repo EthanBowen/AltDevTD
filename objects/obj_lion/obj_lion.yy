@@ -24,6 +24,14 @@
             "objectId": "c14a00d0-0ec5-44c5-b08e-67290f74a45b",
             "propertyId": "47cb6064-965d-40f6-9218-7ad7837a276f",
             "value": "obj_poison"
+        },
+        {
+            "id": "ffa85658-367b-4006-96ea-4f16b2a5b110",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
+            "propertyId": "eab83020-0082-452a-831a-372a93c42442",
+            "value": "\"Click here to select this fish.\\n\\nThe lionfish are capable of releasing a poisonous gas around itself. Any shark unlucky enough to run into it will take constant damage. Convenientely its fellow fish came with gas masks. They can't see camo sharks.\""
         }
     ],
     "parentObjectId": "c14a00d0-0ec5-44c5-b08e-67290f74a45b",

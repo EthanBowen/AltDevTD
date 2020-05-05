@@ -23,6 +23,14 @@
             "objectId": "ab0f7d27-7bdc-45e4-8d7e-10d57f0125fd",
             "propertyId": "d96e1910-c293-4d73-a8ab-09cc82c3f908",
             "value": "1"
+        },
+        {
+            "id": "e05a1d63-a173-4eaa-9876-e6e0b4618cf8",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
+            "propertyId": "eab83020-0082-452a-831a-372a93c42442",
+            "value": "\"Makes the selected tower target the shark closest to it.\""
         }
     ],
     "parentObjectId": "ab0f7d27-7bdc-45e4-8d7e-10d57f0125fd",

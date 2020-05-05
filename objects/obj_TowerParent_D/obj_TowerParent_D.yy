@@ -43,11 +43,30 @@
             "enumb": 0,
             "eventtype": 0,
             "m_owner": "fcf6d852-3a17-4e36-a171-ce350c3b84e3"
+        },
+        {
+            "id": "ea3689b1-bfc0-49f4-a200-37db52482d41",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 5,
+            "eventtype": 6,
+            "m_owner": "fcf6d852-3a17-4e36-a171-ce350c3b84e3"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": [
+        {
+            "id": "ddbcce02-1fd7-416c-9129-e31b179fab7a",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
+            "propertyId": "eab83020-0082-452a-831a-372a93c42442",
+            "value": "\"Left click to place this fish. The white circle indicates the fishes range. If the fish is red then it can't fit so you have to find a different spot for it.\\nYou can also right click to cancel your purchase.\""
+        }
+    ],
+    "parentObjectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -61,7 +80,36 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "4bc3df67-d88c-4093-96a8-902b67c9d60f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "noone",
+            "varName": "toPlace",
+            "varType": 5
+        },
+        {
+            "id": "d271388c-41d9-4c5c-a9d0-77ad9981790a",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "100",
+            "varName": "range",
+            "varType": 0
+        }
+    ],
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true

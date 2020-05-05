@@ -26,7 +26,16 @@
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": null,
+    "overriddenProperties": [
+        {
+            "id": "242aa8d0-184d-44c0-884b-2627611eb889",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
+            "propertyId": "eab83020-0082-452a-831a-372a93c42442",
+            "value": "\"Click here to buy this fish.\\n\\nThe goldfish is quite effective against many sharks. It has short range but fires out a load of coral against attackers. Camo sharks can slip by this one.\""
+        }
+    ],
     "parentObjectId": "b73a4c32-ee50-437e-86f9-2ea97ab903d3",
     "persistent": false,
     "physicsAngularDamping": 0.1,

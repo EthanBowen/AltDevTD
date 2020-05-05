@@ -26,7 +26,16 @@
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": null,
+    "overriddenProperties": [
+        {
+            "id": "364f1c94-7988-42ca-bb35-b0453cc56b8d",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
+            "propertyId": "eab83020-0082-452a-831a-372a93c42442",
+            "value": "\"Click here to buy this fish.\\n\\nThe guppy is the weakest of the fish. It can't see camo and only throws small pebbles\""
+        }
+    ],
     "parentObjectId": "b73a4c32-ee50-437e-86f9-2ea97ab903d3",
     "persistent": false,
     "physicsAngularDamping": 0.1,

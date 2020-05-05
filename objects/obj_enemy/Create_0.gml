@@ -2,6 +2,7 @@
 distance = 0;
 pathAdvance = 0;
 defaultCamo = camo;
+thisSpeed = spd*global.spd_mod*global.fast_forward;
 /*
 if (pathList == "") {
 	pathStart = global.selected_path;

@@ -23,6 +23,14 @@
             "objectId": "c14a00d0-0ec5-44c5-b08e-67290f74a45b",
             "propertyId": "47cb6064-965d-40f6-9218-7ad7837a276f",
             "value": "obj_turritella"
+        },
+        {
+            "id": "aeb1e494-ba71-40fe-8bcd-6459675205c0",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
+            "propertyId": "eab83020-0082-452a-831a-372a93c42442",
+            "value": "\"Click here to select this fish.\\n\\nThe sniper can track any shark anywhere, it additionally boasts high damge at the cost of a slow fire rate.\""
         }
     ],
     "parentObjectId": "c14a00d0-0ec5-44c5-b08e-67290f74a45b",

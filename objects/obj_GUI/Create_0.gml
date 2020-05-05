@@ -10,6 +10,8 @@ global.level = 0;
 global.start = false;
 global.active_round = false;
 
+global.fast_forward = 1;
+
 end_round = false;
 
 selectedTower = noone;

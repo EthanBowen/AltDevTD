@@ -17,12 +17,12 @@ if (global.start/* && !global.active_round*/) {
 	spawn_rate -= 1;
 	if (spawn_rate <= 0)
 		spawn_rate = 0.5;
-	alarm[0] = spawn_rate;
+	alarm[0] = spawn_rate/global.fast_forward;
 	
 	//global.active_round = true;
 	//global.start = false;
 }
-if(global.level >= 1)
-		global.coins += 50;
+//if(global.level >= 1)
+		//global.coins += 50;
 //alarm[1] = room_speed * 5;
 

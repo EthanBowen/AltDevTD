@@ -9,6 +9,6 @@ else {
 	pathStart = asset_get_index(pathNaming + pathFind);
 }
 
-path_start(pathStart, spd*global.spd_mod, 0, 1);
-thisSpeed = spd*global.spd_mod;
+thisSpeed = spd*global.spd_mod*global.fast_forward;
+path_start(pathStart, thisSpeed, 0, 1);
 image_speed = thisSpeed;
