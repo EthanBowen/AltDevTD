@@ -2,8 +2,9 @@
 // You can write your code in this editor
 var instance = instance_position(mouse_x, mouse_y, obj_TowerParent);
 var GUI_item = instance_position(mouse_x, mouse_y, obj_UI_master);
+var twrslct = instance_position(mouse_x, mouse_y, obj_TowerParent_C);
 
-if(!instance_exists(GUI_item))
+if(!instance_exists(GUI_item) || instance_exists(twrslct))
 {
 	with(obj_TowerParent)
 	{
