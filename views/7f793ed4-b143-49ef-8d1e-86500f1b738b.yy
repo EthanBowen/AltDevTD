@@ -13,8 +13,8 @@
         "8c49398c-7a70-4001-8426-e02d9a01515b",
         "2e42b5c4-2e8c-43b2-8f40-07ad21b604e3",
         "58294dcb-7328-4927-a021-88528ef820be",
-        "8a5c1aa6-ebaf-49bd-9961-7cf881aea2e3",
-        "230fd34a-6ceb-4524-ad28-c0c2ebc9006a"
+        "230fd34a-6ceb-4524-ad28-c0c2ebc9006a",
+        "8a5c1aa6-ebaf-49bd-9961-7cf881aea2e3"
     ],
     "filterType": "GMSprite",
     "folderName": "sprgrp_Towers",

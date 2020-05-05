@@ -43,6 +43,16 @@
             "enumb": 0,
             "eventtype": 0,
             "m_owner": "fcf6d852-3a17-4e36-a171-ce350c3b84e3"
+        },
+        {
+            "id": "ea3689b1-bfc0-49f4-a200-37db52482d41",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 5,
+            "eventtype": 6,
+            "m_owner": "fcf6d852-3a17-4e36-a171-ce350c3b84e3"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,7 +63,7 @@
             "mvc": "1.0",
             "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
             "propertyId": "eab83020-0082-452a-831a-372a93c42442",
-            "value": "\"Click to place this fish. The white circle indicates the fishes range. If the fish is red then it can't fit so you have to find a different spot for it.\""
+            "value": "\"Left click to place this fish. The white circle indicates the fishes range. If the fish is red then it can't fit so you have to find a different spot for it.\\nYou can also right click to cancel your purchase.\""
         }
     ],
     "parentObjectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
