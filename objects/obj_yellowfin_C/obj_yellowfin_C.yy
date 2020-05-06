@@ -4,26 +4,7 @@
     "mvc": "1.0",
     "name": "obj_yellowfin_C",
     "eventList": [
-        {
-            "id": "0f0f3bb9-8afd-4097-86a9-59dd3011ef3e",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "f7f8bd08-6be9-4359-895c-f355c3edc1dc"
-        },
-        {
-            "id": "5b93c31a-5ede-40f8-a002-d99524440585",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
-            "eventtype": 6,
-            "m_owner": "f7f8bd08-6be9-4359-895c-f355c3edc1dc"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
@@ -33,7 +14,31 @@
             "mvc": "1.0",
             "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
             "propertyId": "eab83020-0082-452a-831a-372a93c42442",
-            "value": "\"Click here to buy this fish.\\n\\nWho gave this fish a torpedo launcher?? The yellowfins are capable of launching explosives that linger for awhile after impact to deal extra damage. They can't see camo though\""
+            "value": "\"Click here to buy this fish.\\n\\nThe purple merfolk are capable of launching explosives that linger for awhile after impact to deal extra damage. They can't see camo though\""
+        },
+        {
+            "id": "14ada8b2-596c-43b3-ab92-8bd78f0b6088",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "b73a4c32-ee50-437e-86f9-2ea97ab903d3",
+            "propertyId": "0053e6a6-b5ee-4f22-8b4e-167e5efcf2be",
+            "value": "350"
+        },
+        {
+            "id": "efae890f-1c66-4899-9ec8-dcbbaacafd9c",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "b73a4c32-ee50-437e-86f9-2ea97ab903d3",
+            "propertyId": "88a0f58f-d8b3-4fb9-97a0-e6cce0cba7b7",
+            "value": "obj_yellowfin_D"
+        },
+        {
+            "id": "95aa92d0-8359-42ab-bdfe-4956b0b54763",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "b73a4c32-ee50-437e-86f9-2ea97ab903d3",
+            "propertyId": "298abf79-5c31-4b8f-932a-9aef2788ac29",
+            "value": "spr_yellowfin"
         }
     ],
     "parentObjectId": "b73a4c32-ee50-437e-86f9-2ea97ab903d3",
@@ -54,6 +59,6 @@
         
     ],
     "solid": false,
-    "spriteId": "a47d700f-83a1-419f-a1e7-19ee85ebbde9",
+    "spriteId": "c63f270f-b6b5-46b6-a70b-5b83f82d4fb4",
     "visible": true
 }

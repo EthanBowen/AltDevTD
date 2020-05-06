@@ -4,26 +4,7 @@
     "mvc": "1.0",
     "name": "obj_ghost_C",
     "eventList": [
-        {
-            "id": "c090d145-f830-4150-91e5-83c165bc6086",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "72c59d2c-442b-4fe8-98a7-86c610232c59"
-        },
-        {
-            "id": "7e910d31-7b42-429f-8c77-aa482a748d29",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
-            "eventtype": 6,
-            "m_owner": "72c59d2c-442b-4fe8-98a7-86c610232c59"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
@@ -33,7 +14,31 @@
             "mvc": "1.0",
             "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
             "propertyId": "eab83020-0082-452a-831a-372a93c42442",
-            "value": "\"Click here to buy this fish.\\n\\nThe clown fish has a decent range and power though it shoots a little slow. This fish is ready to clown on any camo sharks and see right through their disguises.\""
+            "value": "\"Click here to buy this fish.\\n\\nThe red merfolk are equiped with infrared technology that lets them see through camouflage.\""
+        },
+        {
+            "id": "d8530c93-d5ae-4391-b454-980c118e683f",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "b73a4c32-ee50-437e-86f9-2ea97ab903d3",
+            "propertyId": "0053e6a6-b5ee-4f22-8b4e-167e5efcf2be",
+            "value": "200"
+        },
+        {
+            "id": "9586eb28-1aff-48b8-a766-22155c19dea0",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "b73a4c32-ee50-437e-86f9-2ea97ab903d3",
+            "propertyId": "88a0f58f-d8b3-4fb9-97a0-e6cce0cba7b7",
+            "value": "obj_ghost_D"
+        },
+        {
+            "id": "557dd7fe-a660-4688-a42a-14a00bd9f0ab",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "b73a4c32-ee50-437e-86f9-2ea97ab903d3",
+            "propertyId": "298abf79-5c31-4b8f-932a-9aef2788ac29",
+            "value": "spr_clown"
         }
     ],
     "parentObjectId": "b73a4c32-ee50-437e-86f9-2ea97ab903d3",
@@ -54,6 +59,6 @@
         
     ],
     "solid": false,
-    "spriteId": "5d1f36ed-dfcb-4897-84e0-e709879140e5",
+    "spriteId": "c63f270f-b6b5-46b6-a70b-5b83f82d4fb4",
     "visible": true
 }

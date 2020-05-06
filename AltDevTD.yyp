@@ -1487,6 +1487,14 @@
             }
         },
         {
+            "Key": "c63f270f-b6b5-46b6-a70b-5b83f82d4fb4",
+            "Value": {
+                "id": "8a002068-301b-409e-9a5c-5d5e13c68a66",
+                "resourcePath": "sprites\\spr_towerselect\\spr_towerselect.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ca67b93c-99ae-45d9-b53c-842ddfe72cba",
             "Value": {
                 "id": "c7f683dd-9ea6-477f-85e9-585214fab79d",

@@ -30,7 +30,7 @@
             "mvc": "1.0",
             "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
             "propertyId": "eab83020-0082-452a-831a-372a93c42442",
-            "value": "\"Click here to select this fish.\\n\\nThe sniper can track any shark anywhere, it additionally boasts high damge at the cost of a slow fire rate.\""
+            "value": "\"Click here to select this fish.\\n\\nThe green merfolk are prepared with snipers. They can track any shark anywhere, they additionally boasts high damge at the cost of a slow fire rate.\""
         },
         {
             "id": "61f6d6bd-8bc4-41d6-840d-38e150aa2d1c",

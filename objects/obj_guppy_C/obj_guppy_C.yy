@@ -4,26 +4,7 @@
     "mvc": "1.0",
     "name": "obj_guppy_C",
     "eventList": [
-        {
-            "id": "d51159b7-aea2-4836-b5f9-99e787927fb2",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "64481202-6fb1-44a9-81b1-19eecbab4340"
-        },
-        {
-            "id": "1683d583-dcf7-4027-9f08-a5f271126b0b",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
-            "eventtype": 6,
-            "m_owner": "64481202-6fb1-44a9-81b1-19eecbab4340"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
@@ -33,7 +14,15 @@
             "mvc": "1.0",
             "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
             "propertyId": "eab83020-0082-452a-831a-372a93c42442",
-            "value": "\"Click here to buy this fish.\\n\\nThe guppy is the weakest of the fish. It can't see camo and only throws small pebbles\""
+            "value": "\"Click here to buy this fish.\\n\\nThe blue merfolk are the lowest ranked of its kind. It can't see camo and only throws small pebbles.\""
+        },
+        {
+            "id": "04c9edac-eaf8-4b04-b893-3998070c7d25",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "b73a4c32-ee50-437e-86f9-2ea97ab903d3",
+            "propertyId": "0053e6a6-b5ee-4f22-8b4e-167e5efcf2be",
+            "value": "25"
         }
     ],
     "parentObjectId": "b73a4c32-ee50-437e-86f9-2ea97ab903d3",
@@ -54,6 +43,6 @@
         
     ],
     "solid": false,
-    "spriteId": "321bad51-5411-4026-a2a2-2833e26879c0",
+    "spriteId": "c63f270f-b6b5-46b6-a70b-5b83f82d4fb4",
     "visible": true
 }
