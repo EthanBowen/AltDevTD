@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_poison",
     "eventList": [
-        
+        {
+            "id": "41a7679e-c849-439c-9ccb-084407a8beab",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "cbbfb98e-22d2-47c7-a264-c4493f694c7b"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
