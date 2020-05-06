@@ -15,7 +15,8 @@
         "d98c42f4-f702-4752-8e57-4f23a394d7ee",
         "55eb3d38-fc36-4ad6-906d-79d90cc54b0b",
         "1af17f05-eb72-4a17-9f2f-f4a8de845105",
-        "8774ec7a-11e9-491f-8856-505b8226531d"
+        "8774ec7a-11e9-491f-8856-505b8226531d",
+        "ef4448da-5d38-4ae8-b9ed-727ffa283df0"
     ],
     "filterType": "GMSprite",
     "folderName": "sprgrp_UI",

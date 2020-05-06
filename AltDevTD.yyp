@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "074e1917-1878-485d-9980-7549951841b9",
+            "Value": {
+                "id": "ae76702a-1ec3-4a40-8347-d52528fa9634",
+                "resourcePath": "sprites\\spr_Main_Menu\\spr_Main_Menu.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "075c89ed-32ad-4900-a8a3-2e4bbb436d6f",
             "Value": {
                 "id": "cf381d17-1346-49bf-b7a1-f3588db24aae",
@@ -1836,6 +1844,14 @@
                 "id": "71d047a9-c323-4020-957b-52bc4a3ae007",
                 "resourcePath": "sounds\\music_mainmenu\\music_mainmenu.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "ef4448da-5d38-4ae8-b9ed-727ffa283df0",
+            "Value": {
+                "id": "a0943b21-c853-469a-9b3e-ce2f852be119",
+                "resourcePath": "sprites\\spr_startgame_button\\spr_startgame_button.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
