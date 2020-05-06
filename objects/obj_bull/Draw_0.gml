@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if(hp <= 25)
+if(hp <= 150)
 {
 	camo = false;
 	defaultCamo = false;

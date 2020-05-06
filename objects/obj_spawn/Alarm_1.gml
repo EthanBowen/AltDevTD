@@ -15,7 +15,7 @@ if (global.start/* && !global.active_round*/) {
 	//global.spd_mod += 0.05;
 	// Speeds up spawns.
 	spawn_rate -= 1;
-	if (spawn_rate <= 0)
+	if (spawn_rate <= 0.5)
 		spawn_rate = 0.5;
 	alarm[0] = spawn_rate/global.fast_forward;
 	
