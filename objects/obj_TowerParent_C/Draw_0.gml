@@ -1,16 +1,23 @@
 /// @description Displays the cost
-if(mouseOver(x, y, sprite_width, sprite_height))
+if(global.coins < cost)
 {
 	image_index = 1;
+	col = c_red;
+}
+else if(mouseOver(x, y, sprite_width, sprite_height))
+{
+	image_index = 1;
+	col = c_white;
 }	
 else
 {
 	image_index = 0;
+	col = c_white;
 }
 
-draw_self();
+draw_sprite_ext(sprite_index, -1, x, y, 1, 1, 0, col, 1);
 
-draw_sprite(tower_spr,0,x,y);
+draw_sprite_ext(tower_spr, 0, x, y, 1, 1, 0, col, 1);
 
 draw_set_font(fnt_info);
 
