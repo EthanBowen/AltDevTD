@@ -14,7 +14,7 @@
             "mvc": "1.0",
             "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
             "propertyId": "eab83020-0082-452a-831a-372a93c42442",
-            "value": "\"Click here to buy this fish.\\n\\nThe remora fish was once friend to the sharks. They gathered intel in this time and are now sharing it with the fish. They allow surounding fish to see camo sharks even if they originally couldn't.\""
+            "value": "\"Click here to buy this fish.\\n\\nThe remora fish were once friend to the sharks. They gathered intel in this time and are now sharing it with the fish. They allow surounding fish to see camo sharks even if they originally couldn't.\""
         },
         {
             "id": "89d06632-93de-4d93-9a46-795719d7654c",

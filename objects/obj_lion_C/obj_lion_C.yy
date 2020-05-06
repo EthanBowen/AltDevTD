@@ -14,7 +14,7 @@
             "mvc": "1.0",
             "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
             "propertyId": "eab83020-0082-452a-831a-372a93c42442",
-            "value": "\"Click here to buy this fish.\\n\\nThe lionfish are capable of releasing a poisonous gas around itself. Any shark unlucky enough to run into it will take constant damage. Convenientely its fellow fish came with gas masks. They can't see camo sharks.\""
+            "value": "\"Click here to buy this fish.\\n\\nThe lionfish are capable of releasing a poisonous gas around itself. Anything unlucky enough to run into it will take constant damage. Convenientely their comrades came with gas masks. They can't see camo sharks.\""
         },
         {
             "id": "81da36b7-4dba-4c42-b7ce-9cf52772393f",

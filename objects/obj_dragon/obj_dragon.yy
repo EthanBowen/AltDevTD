@@ -31,7 +31,7 @@
             "mvc": "1.0",
             "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
             "propertyId": "eab83020-0082-452a-831a-372a93c42442",
-            "value": "\"Click here to select this fish.\\n\\nThe goldfish is quite effective against many sharks. It has short range but fires out a load of coral against attackers. Camo sharks can slip by this one.\""
+            "value": "\"Click here to select this fish.\\n\\nThe goldfish is quite effective against many sharks. they have short range but fire out a load of coral against attackers. Camo sharks can slip by these ones.\""
         },
         {
             "id": "9ab9803d-3354-40e9-bbd7-e26dec7ec1f4",

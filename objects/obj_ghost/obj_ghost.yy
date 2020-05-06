@@ -30,7 +30,7 @@
             "mvc": "1.0",
             "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
             "propertyId": "eab83020-0082-452a-831a-372a93c42442",
-            "value": "\"Click here to select this fish.\\n\\nThe red merfolk are equiped with infrared technology that lets them see through camouflage.\""
+            "value": "\"Click here to select this merfolk.\\n\\nThe red merfolk are equiped with infrared technology that lets them see through camouflage.\""
         },
         {
             "id": "e7525f5b-b09d-48ce-8c74-7db6e872635e",

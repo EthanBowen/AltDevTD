@@ -22,7 +22,7 @@
             "mvc": "1.0",
             "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
             "propertyId": "eab83020-0082-452a-831a-372a93c42442",
-            "value": "\"Click here to select this fish.\\n\\nWho gave this fish a torpedo launcher?? The yellowfins are capable of launching explosives that linger for awhile after impact to deal extra damage. They can't see camo though\""
+            "value": "\"Click here to select this merfolk.\\n\\nWho gave this fish a torpedo launcher?? The yellowfins are capable of launching explosives that linger for awhile after impact to deal extra damage. They can't see camo though\""
         },
         {
             "id": "81eed7c1-b58b-4951-a445-9a9ba7c22684",

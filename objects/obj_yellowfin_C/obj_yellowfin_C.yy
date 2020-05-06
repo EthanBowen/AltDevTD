@@ -14,7 +14,7 @@
             "mvc": "1.0",
             "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
             "propertyId": "eab83020-0082-452a-831a-372a93c42442",
-            "value": "\"Click here to buy this fish.\\n\\nThe purple merfolk are capable of launching explosives that linger for awhile after impact to deal extra damage. They can't see camo though\""
+            "value": "\"Click here to buy this merfolk.\\n\\nThe purple merfolk are capable of launching explosives that linger for awhile after impact to deal extra damage. They can't see camo though\""
         },
         {
             "id": "14ada8b2-596c-43b3-ab92-8bd78f0b6088",

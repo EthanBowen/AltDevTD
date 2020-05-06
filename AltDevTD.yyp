@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "20f7ca80-0380-4391-8bb1-f08459dca760",
+            "Value": {
+                "id": "b70c5a14-65cb-4c2c-8c0f-de0383a406d7",
+                "resourcePath": "sounds\\bombExplosion\\bombExplosion.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "215fac6e-9697-4f69-87d3-4428765b2254",
             "Value": {
                 "id": "d7744cf3-3b28-4f69-b0a1-62a85c59e457",
@@ -356,6 +364,14 @@
                 "id": "887a97a0-968d-498d-8778-3a4ef9f53225",
                 "resourcePath": "sprites\\spr_yellowfin\\spr_yellowfin.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2e4de38b-0347-4438-aaa3-bed166f01ead",
+            "Value": {
+                "id": "b30d009b-df37-44a8-8109-3e85470eae72",
+                "resourcePath": "sounds\\Splat\\Splat.yy",
+                "resourceType": "GMSound"
             }
         },
         {

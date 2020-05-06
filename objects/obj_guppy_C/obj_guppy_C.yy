@@ -14,7 +14,7 @@
             "mvc": "1.0",
             "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
             "propertyId": "eab83020-0082-452a-831a-372a93c42442",
-            "value": "\"Click here to buy this fish.\\n\\nThe blue merfolk are the lowest ranked of its kind. It can't see camo and only throws small pebbles.\""
+            "value": "\"Click here to buy this merfolk.\\n\\nThe blue merfolk are the lowest ranked of their kind. They can't see camo and only throws small pebbles.\""
         },
         {
             "id": "04c9edac-eaf8-4b04-b893-3998070c7d25",
