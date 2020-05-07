@@ -38,7 +38,7 @@
             "mvc": "1.0",
             "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
             "propertyId": "eab83020-0082-452a-831a-372a93c42442",
-            "value": "\"NULL\""
+            "value": "\"The behemoth of the sea, nothing can compare to his size. Plowing through anything it its path, not even the great white can stand up next to this one. Once he gets near you, game over.\""
         }
     ],
     "parentObjectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",
