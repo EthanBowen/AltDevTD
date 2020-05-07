@@ -6,7 +6,9 @@ hp -= other.damage;
 
 with(other) 
 {
-	tower.totalDamage += damage
+	if (tower != noone && !instance_exists(tower) && !is_undefined(tower)) {
+		tower.totalDamage += damage;
+	}
 	penetration -= 1;
 	if(penetration <= 0)
 	{
@@ -15,7 +17,9 @@ with(other)
 }
 
 if (hp <= 0) {
-	other.tower.totalKills += 1;
+	if (other.tower != noone && !instance_exists(other.tower) && !is_undefined(other.tower)) {
+		other.tower.totalKills += 1;
+	}
 	global.coins += sharkMoney;
 	instance_destroy();
 }
