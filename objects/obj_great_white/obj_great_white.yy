@@ -39,6 +39,14 @@
             "objectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",
             "propertyId": "98ea92b4-eeb8-49c7-a842-ebdfaf6643e6",
             "value": "20"
+        },
+        {
+            "id": "7d81fcfd-8a89-493b-8828-208536c5d71e",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
+            "propertyId": "eab83020-0082-452a-831a-372a93c42442",
+            "value": "\"The father of the ocean, with his mighty strength and quick fins, he will tear through you before your able to react quick enough. He can’t be easily defeated so I hope you are ready to throw all you got at him.\""
         }
     ],
     "parentObjectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",

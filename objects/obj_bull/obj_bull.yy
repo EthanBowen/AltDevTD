@@ -56,6 +56,14 @@
             "objectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",
             "propertyId": "98ea92b4-eeb8-49c7-a842-ebdfaf6643e6",
             "value": "10"
+        },
+        {
+            "id": "92235f4c-d863-4354-ade0-fffc9b30144f",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
+            "propertyId": "eab83020-0082-452a-831a-372a93c42442",
+            "value": "\"Being slow and  silent waiting to strike, once they are noticed, they will not hesitate to go after their prey and advance at full speed!\""
         }
     ],
     "parentObjectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",

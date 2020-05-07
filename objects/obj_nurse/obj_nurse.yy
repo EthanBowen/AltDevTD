@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "obj_nurse",
     "eventList": [
-        {
-            "id": "a61df787-5469-4595-b095-055a976f91b3",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "27797c35-6444-47c0-8239-fad408111e15"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
@@ -48,6 +39,22 @@
             "objectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",
             "propertyId": "98ea92b4-eeb8-49c7-a842-ebdfaf6643e6",
             "value": "15"
+        },
+        {
+            "id": "cf999b20-cb80-4ba0-9660-718d661505b5",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",
+            "propertyId": "e1dcc268-3bee-48ad-8e5b-dd1609ef85a5",
+            "value": "True"
+        },
+        {
+            "id": "e80c3808-acdf-4bd7-a3b3-afa15ceca7fa",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
+            "propertyId": "eab83020-0082-452a-831a-372a93c42442",
+            "value": "\"These guys are quick, able to outmaneuver other fish in the sea and pack a heavy punch, I hope you got fast reflexes or else you won’t see them coming!\""
         }
     ],
     "parentObjectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",

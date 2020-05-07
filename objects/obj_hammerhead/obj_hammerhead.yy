@@ -39,6 +39,14 @@
             "objectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",
             "propertyId": "98ea92b4-eeb8-49c7-a842-ebdfaf6643e6",
             "value": "4"
+        },
+        {
+            "id": "04766e9e-01ae-4cbc-83f1-539ea10d6ed6",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
+            "propertyId": "eab83020-0082-452a-831a-372a93c42442",
+            "value": "\"One of the deadliest and unexpected sharks. They like to swim on their own and can be stealthy on their own. I hope you got something to see them because they are not something to ignore!\""
         }
     ],
     "parentObjectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",

@@ -15,6 +15,14 @@
             "objectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",
             "propertyId": "98ea92b4-eeb8-49c7-a842-ebdfaf6643e6",
             "value": "1"
+        },
+        {
+            "id": "facc173f-b2fe-470f-b848-4391fa414a95",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
+            "propertyId": "eab83020-0082-452a-831a-372a93c42442",
+            "value": "\"These baby sharks are slow and weak but deadly numbers. Don’t let them catch you off your guard or you will be in a treat for a nibble at your feet!\""
         }
     ],
     "parentObjectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",

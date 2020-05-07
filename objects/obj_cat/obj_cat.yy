@@ -39,6 +39,14 @@
             "objectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",
             "propertyId": "98ea92b4-eeb8-49c7-a842-ebdfaf6643e6",
             "value": "2"
+        },
+        {
+            "id": "52b8aaa7-8952-4b16-91a6-d106b4a1acb3",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "459f54d3-a44c-44b1-827d-b6bede55ab3c",
+            "propertyId": "eab83020-0082-452a-831a-372a93c42442",
+            "value": "\"Home to the waters of Brackish, they are faster than their cookie cousins and tougher too but like to travel in small groups. If they get near, they will aim for more than just your rear!\""
         }
     ],
     "parentObjectId": "3f5f9676-0d83-41a6-beca-1d1b8f237406",
