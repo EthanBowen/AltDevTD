@@ -50,7 +50,7 @@ else
 {
 	//global.active_round = false;
 	obj_start_round.next_round = true;
-	global.coins += 50;
+	global.coins += 100;
 
 }
 
