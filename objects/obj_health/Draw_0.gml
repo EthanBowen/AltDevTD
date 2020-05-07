@@ -8,6 +8,13 @@ draw_set_valign(fa_middle);
 draw_set_color(c_black);
 draw_set_font(fnt_money);
 
-draw_text(x+sprite_width/4, y, global.hp);
 
+if(global.hp <= 0)
+{
+	draw_text(x+sprite_width/4, y, 0);
+}
+else
+{
+	draw_text(x+sprite_width/4, y, global.hp);
+}
 draw_set_color(c_white);
