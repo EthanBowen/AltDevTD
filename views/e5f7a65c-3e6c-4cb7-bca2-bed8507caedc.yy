@@ -25,7 +25,8 @@
         "b57f2992-8035-4aa1-a6b7-d1125be01dee",
         "168f66bc-a9ce-4670-8998-204753872eef",
         "f218844d-ee84-4d3d-a1f8-c5c152736778",
-        "dd8f70ae-2569-471b-9590-06a904501064"
+        "dd8f70ae-2569-471b-9590-06a904501064",
+        "d0caa3f0-2bc8-435a-84ea-42c29371dc67"
     ],
     "filterType": "GMObject",
     "folderName": "objgrp_UI",
