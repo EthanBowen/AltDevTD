@@ -9,10 +9,10 @@ else
 	image_alpha = 0;
 }
 
-image_index = 0;
+image_index = 2;
 if(mouseOver(x, y, sprite_width, sprite_height))
 {
-	image_index = 1;
+	image_index = 3;
 }
 
 draw_self();
