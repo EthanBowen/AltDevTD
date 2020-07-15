@@ -32,6 +32,10 @@ for (i = 0; i < instance_number(obj_bullet); i += 1)
 		with(proj)
 		{
 			speed = spd*global.fast_forward;
+			if(asset_object == obj_poison || asset_object == obj_explosion)
+			{
+				damage = dmg*global.fast_forward;
+			}
 		}
 	}
 }
