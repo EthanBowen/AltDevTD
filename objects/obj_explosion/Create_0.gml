@@ -5,8 +5,4 @@ seconds = 0.5;
 alarm[0] = room_speed * seconds / global.fast_forward;
 speed = spd*global.fast_forward;
 dmg = damage;
-
-if(global.fast_forward == 2)
-{
-	damage = dmg*global.fast_forward;
-}
+damage = dmg*global.fast_forward;
